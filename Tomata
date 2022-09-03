@@ -1,0 +1,38 @@
+Tomata Pastyface Wetlocks
+URogue 4, Sorc 1, Swash 3
+
+AC:
+  +1 dodge bonus vs attacks made by traps.
+  +1 dodge [NIMBLE]
+  +3 dodge bonus to AC when fighting defensively (instead of +2) [Acro]
+  +6 dodge bonus to AC when total defense (instead of +4) [Acro]
+
+HP: 43
+BAB: +6
+CMD:
+CMB:
+
+Fort: +0
+Ref:  +4
+Will: +2
+
+
+Panache: 6
+
+Sneak Attack: 3d6 = +2d6 [URogue3]  +1d6 [AccomplishedFeat]
+Bite Attack:  1d20+11   +1(undead)  Dam: 1d4    +2(undead)  + 1d4 bleed once per day
+Rapier:       1d20+15   +1(undead)  Dam: 1d6+6  +2(undead) Crit 16–20/x2 piercing
+
+============
+BAB: +6 = +3 [Swash3]  +3 [URogue4] + 0 [Sorc1]
+HP: 43  = +8 [HD1] +4 [HD2] +7 [HD3] +5 [HD4] +6 [HD5] +5 [HD6]  +7 [HD7] +5 [HD8]
+
+Bite Attack:
+  Attack: 1d20  +11 = +5 [DEX] +6 [BAB], +1(undead)
+  Dam: 1d4,  +2(undead) + 1d4 bleed once per day
+
+Rapier:
+  Attack: 1d20  +15 = +5 [DEX] +6 [BAB] +1 [WpnFocus] +2 [WpnSpec] +1 [Magic],  +1(undead)
+  Dam:    1d6   +6  = +5 [FinesseTrain]  +1 [Magic], +2(undead) Crit 18–20/x2 piercing
+
+Panache: 6 = +2 [Cha] +2 [Int] +2 [ExtraPan]

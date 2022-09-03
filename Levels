@@ -1,0 +1,279 @@
+Levels Swash 4, URogue 3, Sorc 1
+
+Favoured Class: SWASHBUCKLER
+
+
+Level 1: URogue 1
+----------------
+  Skills: 10 = 8 +2 [Int]
+    1 UMD
+    1 Acro
+    1 Sleight of Hand
+    1 Disable Device
+    1 Perception
+    1 Escape Artist
+    1 Know (dungeoneering)
+    1 Know (local)
+    1 Sense Motive
+    1 Stealth
+
+  HP: +8 [First Lvl max HD]
+  BAB: +0   Fort: +0  Ref: +2   Will:	+0
+  Finesse training, sneak attack +1d6, trapfinding
+
+  Finesse Training (Ex)
+    -At 1st level, a rogue gains Weapon Finesse as a bonus feat. (+more)
+
+  Trapfinding:
+    A rogue adds 1/2 her level on Perception checks to locate traps and on Disable Device checks (minimum +1).
+    A rogue can use Disable Device to disarm magic traps.
+
+
+Level 2: Sorcerer 1 Undead Bloodline Sanguine Wildbloodline
+------------------
+
+  Skills: 4 = 2 +2 [Int]
+    1 Perception
+    1 Know (arcana)
+    1 UMD
+    1 Spellcraft
+
+
+  HP: +4 [1/2 HD6 + 1]
+  BAB: +0   Fort: +0  Ref: +2   Will:	+0
+  Bloodline power, cantrips, eschew materials
+
+  Bloodline Arcana: your effective caster level +1 for necromancy school
+
+  THE BLOOD IS THE LIFE (Su): 5x day
+    At 1st level, you can gain sustenance from the blood of the recently dead.
+    As a standard action, you can drink the blood of a creature that died within the past minute.
+    The creature must be corporeal, must be at least the same size as you, and must have blood.
+    This ability heals you 1d6 hit points and nourishes you as if you’d had a full meal.
+    You may use this ability a number of times per day equal to 3 + your Charisma modifier.
+
+
+
+Level 3: Swashbuckler Inspired Blade 1  *Favoured Class*
+----------------------
+  Skills: 6 = 4 +2 [Int]
+    1 UMD
+    1 Acro
+    1 Appraise
+    1 Disable Device
+    1 Perception
+    1 Diplomacy
+
+
+  HP: +7 [1/2 HD10 + 1]  +1 [FavouredClass]
+  BAB: +1   Fort: +0  Ref: +2   Will:	+0
+
+  Deeds, panache, swashbuckler finesse
+
+  SWASHBUCKLER FINESSE (Ex):
+    At 1st level, a swashbuckler gains the benefits of the Weapon Finesse feat with light or one-handed piercing melee weapons, and she can use her Charisma score in place of Intelligence as a prerequisite for combat feats.
+    This ability counts as having the Weapon Finesse feat for purposes of meeting feat prerequisites.
+
+  INSPIRED FINESSE:
+    At 1st level, an inspired blade gains the benefits of Weapon Finesse with the rapier (this ability counts as having the Weapon Finesse feat for the purpose of meeting feat prerequisites) and gains Weapon Focus (rapier) as a bonus feat.
+    This ability replaces swashbuckler finesse.
+
+
+  DEEDS:
+
+    DERRING-DO (Ex): +d6...  Acro, Climb, Escape Artist, Fly, Ride, or Swim (Cost 1 panache)
+      At 1st level, a swashbuckler can spend 1 panache point when she makes an Acrobatics, Climb, Escape Artist, Fly, Ride, or Swim check to roll 1d6 and add the result to the check.
+      She can do this after she makes the check but before the result is revealed.
+      If the result of the d6 roll is a natural 6, she rolls another 1d6 and adds it to the check.
+      She can continue to do this as long as she rolls natural 6s, up to a number of times equal to her Dexterity modifier (minimum 1).
+
+    DODGING PANACHE (Ex): move 5ft +2 dodge AC (Cost 1 panache)
+      At 1st level, when an opponent attempts a melee attack against the swashbuckler, the swashbuckler can as an immediate action spend 1 panache point to move 5 feet;
+      doing so grants the swashbuckler a dodge bonus to AC equal to her Charisma modifier (minimum 0) against the triggering attack.
+      This movement doesn't negate the attack, which is still resolved as if the swashbuckler had not moved from her previous square.
+      This movement is not a 5-foot step; it provokes attacks of opportunity from creatures other than the one who triggered this deed.
+      The swashbuckler can perform this deed only while wearing light armor or no armor, and while carrying no heavier than a light load.
+
+    OPPORTUNE PARRY AND RIPOSTE (Ex): (Cost 1 panache)
+      At 1st level, when an opponent makes a melee attack against the swashbuckler, she can spend 1 panache point and expend a use of an attack of opportunity to attempt to parry that attack.
+      The swashbuckler makes an attack roll as if she were making an attack of opportunity;
+      for each size category the attacking creature is larger than the swashbuckler, the swashbuckler takes a –2 penalty on this roll.
+      If her result is greater than the attacking creature's result, the creature's attack automatically misses.
+      The swashbuckler must declare the use of this ability after the creature's attack is announced, but before its attack roll is made.
+      Upon performing a successful parry and if she has at least 1 panache point, the swashbuckler can as an immediate action make an attack against the creature whose attack she parried, provided that creature is within her reach.
+      This deed's cost cannot be reduced by any ability or effect that reduces the number of panache points a deed costs.
+
+
+
+Level 4: URogue 2
+----------------
+
+  +1 Dex
+
+  Skills: 10 = 8 +2 [Int]
+    1 UMD
+    1 Acro
+    1 Acro
+    1 Disable Device
+    1 Perception
+    1 Spellcraft
+    1 Know (religion)
+    1 Know (local)
+    1 Linguistics
+    1 Stealth
+
+  HP: +5 [1/2 HD8 +1]
+
+  BAB: +1   Fort: +0  Ref: +3  Will:	+0
+  Evasion,
+  rogue talent -> Combat Feat [Weapon Specialization]
+
+
+
+Level 5: Swashbuckler Inspired Blade 2  *Favoured Class*
+-----------------------
+  Skills: 7 = 4 +2 [Int] +1 [FavouredClass]
+    1 UMD
+    1 Acro
+    2 Disable Device
+    1 Perception
+    1 Escape Artist
+    1 Knowledge (local)
+
+
+
+  HP: +6 [1/2 HD10 + 1]
+
+  BAB: +2	 FORT: +0	 REFLEX: +3	WILL: +0
+
+  Charmed Life (Ex): +[Cha] save 3/day
+    At 2nd level, the swashbuckler gains a knack for getting out of trouble.
+    Three times per day as an immediate action, she can add her Charisma modifier to the result of a saving throw.
+    She must choose to do this before the roll is made.
+    At 6th level and every 4 levels thereafter, the number of times she can do this per day increases by one (to a maximum of seven times per day at 18th level).
+
+
+
+Level 6: URogue 3
+-----------------
+
+  Skills: 10 = 8 +2 [Int]
+    1 UMD
+    1 Acro
+    1 Bluff
+    1 Disable Device
+    1 Perception
+    1 Knowledge (arcana)
+    1 Intimidate
+    1 Know (local)
+    1 Heal
+    1 Stealth
+
+  HP: +5 [1/2 HD8 +1]
+
+  BAB: +2   Fort: +1  Ref: +3  Will:	+1
+  Danger sense +1, finesse training, sneak attack +2d6
+
+
+  Finesse Training (Ex):
+    In addition, starting at 3rd level, she can select any one type of weapon that can be used with Weapon Finesse [rapier].
+    Once this choice is made, it cannot be changed.
+    Whenever she makes a successful melee attack with the selected weapon, she adds her Dexterity modifier instead of her Strength modifier to the damage roll.
+    If any effect would prevent the rogue from adding her Strength modifier to the damage roll, she does not add her Dexterity modifier.
+    The rogue can select a second weapon at 11th level and a third at 19th level.
+
+  Danger Sense (Ex):
+    At 3rd level, a rogue gains a +1 bonus on Reflex saves to avoid traps and a +1 dodge bonus to AC against attacks made by traps.
+    In addition, she gains a +1 bonus on Perception checks to avoid being surprised by a foe.
+    These bonuses increase by 1 every 3 rogue levels thereafter (to a maximum of +6 at 18th level).
+    This ability counts as trap sense for the purpose of any feat or class prerequisite, and can be replaced by any archetype class feature that replaces trap sense.
+    The bonuses gained from this ability stack with those gained from trap sense (from another class).
+
+
+
+Level 7: Swashbuckler Inspired Blade 3  *Favoured Class*
+-----------------------
+  Skills: 6 = 4 +2 [Int]
+    1 UMD
+    1 Acro
+    1 Disable Device
+    1 Perception
+    1 Knowledge (arcana)
+    1 Profession (driver)
+
+
+	BAB: +3	 Fort: +1	 Ref: +3	Will: +1
+  Deeds, nimble +1
+
+  HP: +7 [1/2 HD10 + 1] +1 [FavouredClass]
+
+
+  Nimble (Ex): (+1 AC dodge)
+    At 3rd level, a swashbuckler gains a +1 dodge bonus to AC while wearing light armor or no armor.
+    Anything that causes the swashbuckler to lose her Dexterity bonus to AC also causes her to lose this dodge bonus.
+    This bonus increases by 1 for every 4 levels beyond 3rd (to a maximum of +5 at 19th level).
+
+  PRECISE STRIKE (EX): +3 dam (while panache) +6 dam (cost panache)
+    At 3rd level, while she has at least 1 panache point, a swashbuckler gains the ability to strike precisely with a light or one-handed piercing melee weapon (though not natural weapon attacks), adding her swashbuckler level to the damage dealt.
+    To use this deed, a swashbuckler cannot attack with a weapon in her other hand or use a shield other than a buckler.
+    She can even use this ability with thrown light or one-handed piercing melee weapons, so long as the target is within 30 feet of her.
+    Any creature that is immune to sneak attacks is immune to the additional damage granted by precise strike, and any item or ability that protects a creature from critical hits also protects a creature from the additional damage of a precise strike.
+    This additional damage is precision damage, and isn’t multiplied on a critical hit.
+    As a swift action, a swashbuckler can spend 1 panache point to double her precise strike’s damage bonus on the next attack. This benefit must be used before the end of her turn, or it is lost.
+    This deed’s cost cannot be reduced by any ability or effect that reduces the amount of panache points a deed costs (such as the Signature Deed feat).
+
+    SWASHBUCKLER INITIATIVE (EX):  (+2 Init while panache)
+      At 3rd level, while the swashbuckler has at least 1 panache point, she gains a +2 bonus on initiative checks.
+      In addition, if she has the Quick Draw feat, her hands are free and unrestrained, and she has any single light or one-handed piercing melee weapon that isn’t hidden, she can draw that weapon as part of the initiative check.
+
+Level 8: URogue 4
+-----------------------
+
+  +1 Dex
+  
+  Skills: 10 = 8 +2 [Int]
+    1 Acro
+    1 Disable Device
+    1 Perception
+    1 UMD
+    1
+    1
+    1
+    1
+    1
+    1
+
+  	+3	+1	+4	+1
+    Debilitating injury,
+    rogue talent,
+    uncanny dodge
+
+    HP: +5 [1/2 HD8 +1]
+
+    UNCANNY DODGE (EX)
+      At 4th level, a rogue can react to danger before her senses would normally allow her to do so.
+      She cannot be caught flat-footed, nor does she lose her Dexterity bonus to AC if the attacker is invisible.
+      She still loses her Dexterity bonus to AC if immobilized.
+      A rogue with this ability can still lose her Dexterity bonus to AC if an opponent successfully uses the feint action against her.
+      If a rogue already has uncanny dodge from a different class, she automatically gains improved uncanny dodge (see below) instead.
+
+    DEBILITATING INJURY (EX)
+      At 4th level, whenever a rogue deals sneak attack damage to a foe, she can also debilitate the target of her attack, causing it to take a penalty for 1 round (this is in addition to any penalty caused by a rogue talent or other special ability).
+      The rogue can choose to apply any one of the following penalties when the damage is dealt.
+
+      BEWILDERED:
+      The target becomes bewildered, taking a –2 penalty to AC.
+      The target takes an additional –2 penalty to AC against all attacks made by the rogue.
+
+
+      DISORIENTED:
+      The target takes a –2 penalty on attack rolls.
+      In addition, the target takes an additional –2 penalty on all attack rolls it makes against the rogue.
+
+      HAMPERED:
+      All of the target’s speeds are reduced by half (to a minimum of 5 feet).
+      In addition, the target cannot take a 5-foot step.
+
+      These penalties do not stack with themselves, but additional attacks that deal sneak attack damage extend the duration by 1 round.
+      A creature cannot suffer from more than one penalty from this ability at a time.
+      If a new penalty is applied, the old penalty immediately ends. Any form of healing applied to a target suffering from one of these penalties also removes the penalty.

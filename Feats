@@ -1,0 +1,179 @@
+Feats (&cetera)
+
+Traits & Drawbacks
+------------------
+MAGICAL KNACK (Magic Trait)
+  You were raised, either wholly or in part, by a magical creature, either after it found you abandoned in the woods or because your parents often left you in the care of a magical minion. This constant exposure to magic has made its mysteries easy for you to understand, even when you turn your mind to other devotions and tasks.
+
+  Benefit: Pick a class when you gain this trait—your caster level in that class gains a +2 trait bonus as long as this bonus doesn’t raise your caster level above your current Hit Dice.
+
+SUBJECT OF STUDY (Campaign Trait)
+  Benefit: Choose a non-humanoid creature type (and subtype if outsider).
+  You gain a +1 bonus on damage rolls against creatures of this type.
+  +1 dam Undead
+
+UNDEAD SLAYER (Dhampir Trait)
+  You are filled with wrath against the monsters whose unclean blood makes you an outcast
+  Benefit(s): You gain a +1 trait bonus on attack and damage rolls against undead creatures.
+
+STIGMATIZED  (Drawback)
+  You take a –3 penalty on Diplomacy checks to gather information or improve a creature’s attitude.
+
+
+Feats
+
+HD 1 URogue 1
+----
+
+UNUSUAL ORIGIN (Dhampir) [Level 1]
+  Your undead progenitor left you with more than a hint of vampiric nature.
+  Prerequisite(s): Dhampir.
+  Benefit(s): You gain a natural bite attack that deals 1d4 points of damage. Once per day upon making a successful bite attack, you can choose to deal an additional 1d4 points of bleed damage to the creature struck.
+  Special: You can only select this feat at 1st level.
+
+WEAPON FINESSE (Combat)  [Finesse Training URogue1]
+  You are trained in using your agility in melee combat, as opposed to brute strength.
+  Benefit: With a light weapon, elven curve blade, rapier, whip, or spiked chain made for a creature of your size category, you may use your Dexterity modifier instead of your Strength modifier on attack rolls.
+  If you carry a shield, its armor check penalty applies to your attack rolls.
+  Special: Natural weapons are considered light weapons.
+
+
+
+[HD2] Sorcerer 1
+
+The Blood Is the Life (Su): 5x day drink blood of recently dead 1d6hp acts as rations
+  Not a Feat but a Sanguine bloodline ability
+
+[HD3] Swashbuckler 1
+
+INSPIRED PANACHE (Ex): each day +Cha +Int panache pts
+  Each day, an inspired blade gains a number of panache points equal to her Charisma modifier (minimum 1) plus her Intelligence modifier (minimum 1), instead of just her Charisma modifier.
+
+WEAPON FOCUS (Combat) (Rapier) <- [Inspired Finesse]: +1 attack w/ Rapier
+  Choose one type of weapon.  RAPIER. You can also choose unarmed strike or grapple (or ray, if you are a spellcaster) as your weapon for the purposes of this feat.
+  Prerequisites: Proficiency with selected weapon, base attack bonus +1.
+  Benefit: You gain a +1 bonus on all attack rolls you make using the selected weapon.
+
+COMBAT REFLEXES (COMBAT) [Level 3]
+  -You have more panache than the ordinary swashbuckler.
+  -Prerequisite(s): Amateur Swashbuckler or panache class feature.
+  -Benefit: You gain two more panache points at the start of each day, and your maximum panache increases by two.
+  -Special: If you have levels in the swashbuckler class, you can take this feat multiple times. Its effects stack.
+  -You can make additional attacks of opportunity.
+  -Benefit: You may make a number of additional attacks of opportunity per round equal to your Dexterity bonus.
+  With this feat, you may also make attacks of opportunity while flat-footed.
+
+
+[HD4]
+EVASION (Ex) [URogue 2]
+  At 2nd level, a rogue can avoid even magical and unusual attacks with great agility.
+  If she succeeds at a Reflex saving throw against an attack that normally deals half damage on a successful save, she instead takes no damage.
+  Evasion can be used only if the rogue is wearing light armor or no armor.
+  A helpless rogue does not gain the benefit of evasion.
+
+WEAPON SPECIALIZATION (COMBAT) +2 dam Rapier  [RogueTalent]
+  -You are skilled at dealing damage with one weapon.
+  Choose one type of weapon (Rapier) for which you have already selected the Weapon Focus feat.
+  You deal extra damage when using this weapon.
+  -Prerequisites: Proficiency with selected weapon, Weapon Focus with selected weapon, fighter level 4th.
+  -Benefit: You gain a +2 bonus on all damage rolls you make using the selected weapon.
+
+
+[HD5]
+EXTRA PANACHE (Panache) [Level 5]
+  -You have more panache than the ordinary swashbuckler.
+  -Prerequisite(s): Amateur Swashbuckler or panache class feature.
+  -Benefit: You gain two more panache points at the start of each day, and your maximum panache increases by two.
+  -Special: If you have levels in the swashbuckler class, you can take this feat multiple times. Its effects stack.
+
+
+[HD7]
+
+NIMBLE +1 dodge AC [Swash3]
+
+ACCOMPLISHED SNEAK ATTACKER [Level 7]
+  Your strikes against a foe’s vital spots are extra deadly.
+  Prerequisite(s): Sneak attack class feature.
+  Benefit(s): Your sneak attack damage increases by 1d6. Your number of sneak attack dice cannot exceed half your character level (rounded up).
+
+
+[HD8]
+IMPROVED CRITICAL (COMBAT) [RogueTalent]
+  Attacks made with your RAPIER are quite deadly.
+  Prerequisite: Proficient with weapon, base attack bonus +8.
+  Benefit: When using the weapon you selected, your threat range is doubled.
+  This effect doesn’t stack with any other effect that expands the threat range of a weapon.
+
+
+------ Wishlist -------
+
+
+CRITICAL FOCUS (COMBAT)
+  -You are trained in the art of causing pain.
+  -Prerequisites: Base attack bonus +9.
+  -Benefit: You receive a +4 circumstance bonus on attack rolls made to confirm critical hits
+
+SLAYER’S FEINT (COMBAT)
+  -You rely on your deceptive speed and agility instead of trickery to catch your opponents unprepared.
+  -Prerequisite(s): Dex 15, Acrobatic or slayer level 1st, Combat Expertise, Acrobatics 1 rank.
+  -Benefit: You can use Acrobatics instead of Bluff to feint in combat.
+
+ACROBATIC
+  -You are skilled at leaping, jumping, and flying.
+  -Benefit: You get a +2 bonus on all Acrobatics and Fly skill checks. If you have 10 or more ranks in one of these skills, the bonus increases to +4 for that skill.
+
+BLOOD DRINKER (Dhampir)
+  -Consuming blood reinvigorates you.
+  -Benefit: Choose one humanoid subtype, such as “goblinoid” (this subtype cannot be “dhampir”).
+  HUMAN
+  You have acquired a taste for the blood of creatures with this subtype.
+  Whenever you drink fresh blood from such a creature, you gain 5 temporary hit points and a +1 bonus on checks and saves based on Constitution. The effects last 1 hour.
+  If you feed multiple times, you continue to gain hit points to a maximum of 5 temporary hit points for every three Hit Dice you have, but the +1 bonus on Constitution-based skill checks and saving throws does not stack.
+  -Normally, you can only drink blood from an opponent who is helpless, grappled, paralyzed, pinned, unconscious, or similarly disabled.
+  If you have a bite attack, you can drink blood automatically as part of your bite attack; otherwise, you must first cut your target by dealing 1 hit point of damage with a slashing or piercing weapon (though you may feed upon a creature with severe wounds or a bleed effect without cutting it first).
+  Once you cut the target, you can drink from its wound as a standard action.
+  Drinking blood deals 2 points of Constitution damage to the creature you feed upon.
+  The blood must come from a living creature of the specified humanoid subtype.
+  It cannot come from a dead or summoned creature.
+  Feeding on unwilling intelligent creatures is an evil act.
+
+
+Rogue Talent:
+Shadow Duplicate (Sp)
+Once per day as an immediate action when the rogue is hit, the rogue can create a single shadow duplicate of herself, as per mirror image.
+The GM randomly determines whether the attack hit the rogue or the shadow duplicate.
+The shadow duplicate lasts for a number of rounds equal to the rogue’s level, or until the shadow duplicate is dispelled or destroyed.
+This ability does not stack with the mirror image spell.
+The caster level for this ability is equal to the rogue’s level. A rogue can use this ability one additional time per day for every 5 rogue levels she has.
+
+Ninja Trick:
+
+Bleeding Attack* (Ex)
+Benefit: A ninja with this trick can cause living opponents to bleed by hitting them with a sneak attack.
+This attack causes the target to take 1 additional point of damage each round for each die of the ninja’s sneak attack. Bleeding creatures take that amount of damage every round at the start of each of their turns.
+The bleeding can be stopped by a DC 15 Heal check or the application of any effect that heals hit point damage.
+Bleed damage from this ability does not stack with itself. Bleed damage bypasses any DR the creature might possess.
+
+Pressure Points* (Su)
+Benefit: A ninja with this trick can strike at an opponent’s vital pressure points, causing weakness and intense pain.
+Whenever the ninja deals sneak attack damage, she also deals 1 point of Strength or Dexterity damage, decided by the ninja. Unlike normal ability damage, this damage can be healed by a DC 15 Heal check.
+ Each successful check heals 1 point of damage caused by this trick.
+ A ninja with this trick receives a +10 insight bonus on this Heal check.
+
+ Redirect Force (Ex)
+Benefit: If the ninja has a feat that allows her to attempt a combat maneuver without provoking attacks of opportunity, she can choose to provoke them anyway when she performs that maneuver. If she does so and takes damage from the attack of opportunity, the ninja adds the damage as a bonus on her attack roll instead of as a penalty.
+
+styles
+Cloak and Dagger Style (Combat, Style)
+  Your attacks effortlessly inflict debilitating conditions on unaware opponents.
+  Prerequisite(s): Int 13, Combat Expertise, Improved Dirty Trick, Vital Strike, Weapon Focus with the chosen weapon, base attack bonus +6.
+  Benefit(s): Choose one light melee weapon. While using this style, whenever you use the attack action to attack an opponent during a surprise round with your chosen weapon, you can attempt a dirty trick combat maneuver check against that opponent as a free action. Additionally, if an adjacent target attempts to remove a condition that you inflicted upon it with the dirty trick combat maneuver, it provokes an attack of opportunity from you.
+  Special: In addition to the chosen weapon, a character with the weapon training class feature can use Cloak and Dagger Style with any light melee weapon belonging to any fighter weapon group he has selected with weapon training.
+  A character with the swashbuckler weapon training class feature can use Cloak and Dagger Style with light and one-handed piercing weapons.
+
+  Fox Style (Combat, Style)
+    Your martial training helps you manipulate foes.
+
+    Prerequisite(s): Int 13.
+
+    Benefit(s): While using this style, you can use your base attack bonus in place of your ranks in Bluff on Bluff checks to feint in combat and to create a distraction to hide. If your Intelligence is at least 19, you gain a +4 bonus on such Bluff checks when adding your Charisma modifier.
