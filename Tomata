@@ -1,7 +1,7 @@
 Tomata Pastyface Wetlocks
 URogue 4, Sorc 1, Swash 3
 
-AC:
+AC: 24 = 10 +5 [Dex] +2 [Buckler+1] +1 [Nimble] +5 [Mithral Chain Shirt+1] +1 [AmuletNat]
   +1 dodge bonus vs attacks made by traps.
   +1 dodge [NIMBLE]
   +3 dodge bonus to AC when fighting defensively (instead of +2) [Acro]
@@ -9,8 +9,8 @@ AC:
 
 HP: 43
 BAB: +6
-CMD:
-CMB:
+CMD: +22
+CMB: +6
 
 Fort: +0
 Ref:  +4
@@ -26,6 +26,17 @@ Rapier:       1d20+15   +1(undead)  Dam: 1d6+6  +2(undead) Crit 16–20/x2 pierc
 ============
 BAB: +6 = +3 [Swash3]  +3 [URogue4] + 0 [Sorc1]
 HP: 43  = +8 [HD1] +4 [HD2] +7 [HD3] +5 [HD4] +6 [HD5] +5 [HD6]  +7 [HD7] +5 [HD8]
+
+CMB = Base attack bonus + Strength modifier + special size modifier
+    = 6 + 0  +  0
+
+CMD = 10 + Base attack bonus + Strength modifier + Dexterity modifier + special size modifier + miscellaneous modifiers
+    = 22 = 10 + 6 + 0 + 5 + 0 + 1
+
+Miscellaneous Modifiers
+A creature can also add any circumstance, deflection, dodge, insight, luck, morale, profane, and sacred bonuses to AC to its CMD.
+Any penalties to a creature’s AC also apply to its CMD.
+A flat-footed creature does not add its Dexterity bonus to its CMD.
 
 Bite Attack:
   Attack: 1d20  +11 = +5 [DEX] +6 [BAB], +1(undead)
