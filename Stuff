@@ -24,13 +24,15 @@ Mithral Rapier +1
 
 ARMOUR
 Buckler+1 	          AC: +2	–1Check	5%Fail   base: 5gp  + magic$$
-Mithral Chain shirt+1	 AC: +5	
+Mithral Chain shirt+1	 AC: +5
 
 MAGIC ITEMS
 Handy Haversack
 Belt of Dex +2
 Wand Magic Missile x 66
 Amulet of Natural Armor + 1
+Boots of Elvenkind Acro +5
+Cloak
 
 
 
@@ -52,6 +54,16 @@ EYES OF THE EAGLE
 
 SCROLL:
 Identify
+
+PFS Legal Daredevil Boots
+Source Ultimate Equipment pg. 230
+Aura faint enchantment; CL 3rd
+Slot feet; Price 1,400 gp; Weight 1 lb.
+Description
+This pair of magical boots shimmers in vibrant shades of blazing red and burning orange when they are held up to the light. These boots allow the wearer to gain extra maneuverability while moving through hazardous areas. As a free action, the wearer can click her heels together to grant herself a +5 competence bonus on Acrobatics checks made to move through threatened squares or to move through an enemy’s space without provoking attacks of opportunity for up to 10 rounds per day. The rounds do not need to be consecutive. Furthermore, anytime the wearer of the boots successfully moves though the space of an enemy without provoking an attack of opportunity, she gains a +1 bonus on attack rolls against that enemy until the end of her turn.
+Construction
+Requirements Craft Wondrous Item, cat’s grace; Cost 700 gp
+
 
 GOGGLES, ARACHNID
 -Aura moderate transmutation; CL 9th; Slot eye; Price 15,000 gp; Weight 2 lbs.
@@ -102,7 +114,78 @@ JINGASA OF THE FORTUNATE SOLDIER
   This ability functions only once, though the jingasa continues to grant its deflection bonus even after the other ability is expended.
   Feats Craft Wondrous Item, divine favor, moment of prescience; Cost 2,500 gp.
 
+ROD OF BALANCE
+  Aura faint abjuration; CL 5th; Slot none; Price 15,000 gp; Weight 5 lbs.
+  This short, slender rod appears to be crafted from solid iron, though it is incredibly light.
+  In this shortened form, the rod has no powers. However, when the wielder pushes a small button on one end of the rod (a move action), the rod springs open to a 5-foot length, and its powers become available for use.
+  Once extended, the rod possesses several powers that add to the wielder’s acrobatic abilities . The wielder of the rod receives a +10 competence bonus on all Acrobatics checks involving long jumps and high jumps; additionally, the wielder covers double the normal distance for a jump when making an Acrobatics check. The individual holding the rod also gain a +4 dodge bonus to AC when fighting defensively instead of the usual +2 bonus. Also, while using this item, the user of the rod cannot be knocked prone, and takes only half damage from falling. A rod of balance emits a faint aura of the abjuration and transmutation schools.
+  Feats Craft Rod, cat’s grace, feather fall, jump; Cost 7,500 gp
+
+
+STONE OF GOOD LUCK (LUCKSTONE)
+  Aura faint evocation; CL 5th; Slot —; Price 20,000 gp; Weight —
+
+  DESCRIPTION
+
+  This small bit of agate grants its possessor a +1 luck bonus on saving throws, ability checks, and skill checks.
+
+  CONSTRUCTION REQUIREMENTS
+
+  Craft Wondrous Item, divine favor; Cost 10,000 gp
+
+
+  MASTERWORK TOOL
+
+Price 50 gp; Weight 1 lb.
+
+This tool is perfect for its intended job. It grants a +2 circumstance bonus on a related skill check (if any). The bonuses provided by multiple masterwork items do not stack.
+
+Several common items already count as masterwork tools for particular skills. These are the alchemist's lab, climber's kit, disguise kit, healer's kit, masterwork musical instrument, and masterwork thieves' tools. Therefore, there is no masterwork climber's kit, masterwork healer's kit, and so on—those items are already the best available for general checks with the relevant skill.
+
+Some skills have no appropriate tool or masterwork tool—no nonmagical item exists that grants a bonus for all uses of that skill. For example, just because a certain perfume is favored by local nobles (granting a +2 circumstance bonus on Diplomacy checks to influence them) doesn't mean that perfume has the same effect on a member of the thieves' guild, a foreign berserker, or a medusa. Likewise, just because a fake beard woven by dwarves out of the beards of famous dwarves may grant a +2 circumstance bonus on Use Magic Device checks to emulate the dwarven race doesn't mean the beard has any effect on using that skill to activate elven items or paladin items, or to decipher a written spell.
+
+Individual GMs may want to allow masterwork tools for other skills at the listed cost. The circumstance bonus for such a tool should never be more than +2. The tool should either have a limited number of uses (such as the disguise and healer's kits) or only apply to certain aspects of the skill (such as the balancing pole's bonus on Acrobatics checks to traverse a narrow surface or the magnifying glass's bonus on Appraise checks for detailed items).
+
+
+Boots of the Cat
+Aura faint transmutation; CL 1st; Slot feet; Price 1,000 gp; Weight 1 lb.
+
+DESCRIPTION
+
+These high-soled blue boots provide a great deal of comfort and arch support while also making the wearer appear a little bit taller than normal.
+
+The boot’s wearer always takes the minimum possible damage from falls (as if the GM had rolled a 1 on each die of damage incurred by the fall) and at the end of a fall always lands on his feet.
+
+CONSTRUCTION REQUIREMENTS
+
+Feats Craft Wondrous Item, feather fall; Cost 500 gp.
+
+
+Burst of Speed: A solid spell from Ultimate Combat, this spell seems a little weak for a 3rd-level spell slot at first glance. As a swift action you gain a 20 foot bonus to your speed (untyped), or a 10 foot bonus if you're wearing medium or heavy armor. The advantage is that your movement doesn't provoke attacks of opportunity, and you can move through spaces of creatures larger than you as long as you don't end your movement there. Again, it's only usable on the self, but it's a handy trick to have up your sleeve if you need to close with an enemy (or get behind them for a flank) in a big damn hurry.
+
+
+Haste: Everyone's favorite party boosting spell, haste adds 30 feet to a person's movement in all forms. This counts as an enhancement bonus, so it won't stack with other enhancement bonuses. However, it has the advantage that it can affect several people at once, and that it will boost party members who can fly, swim, burrow, climb, etc. It also eats a 2nd or 3rd level spell slot, depending on your casting class, so you can keep it in spell-completion form, too, should you need it.
+
+- Expeditious Retreat: A lower-level way to give yourself a 30-foot bonus to your speed, expeditious retreat is also treated as an enhancement bonus. It lasts for minutes per level, and it's a great way to get around the limitations placed on you because of heavier armor, shorter movement speeds from size, etc. And, despite the name, you can use this spell to move into an attack position if that's what you'd rather do!
+
+EXPEDITIOUS RETREAT
+  School transmutation; Level alchemist 1, bard 1, inquisitor 1, magus 1, psychic 1, sorcerer/wizard 1, summoner/unchained summoner 1; Subdomain azata (chaos, good) 1, exploration 1
+  Casting Time 1 standard action
+  Components V, S
+  Range personal
+  Target you
+  Duration 1 min./level (D)
+  This spell increases your base land speed by 30 feet. This adjustment is treated as an enhancement bonus. There is no effect on other modes of movement, such as burrow, climb, fly, or swim. As with any effect that increases your speed, this spell affects your jumping distance (see the Acrobatics skill).
+
+
+
 ---- Notes -----
+BOOTS OF ELVENKIND
+  Aura faint transmutation; CL 5th; Slot feet; Price 2,500 gp; Weight 1 lb.
+  These soft boots are partially made out of living leaves and other natural materials.
+  They enable the wearer to move nimbly about in virtually any surroundings, granting a +5 competence bonus on Acrobatics checks.
+  Feats Craft Wondrous Item; Special creator must be an elf; Cost 1,250 gp.
+
 
 MITHRAL
 

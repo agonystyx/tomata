@@ -106,6 +106,45 @@ IMPROVED CRITICAL (COMBAT) [RogueTalent]
 
 
 ------ Wishlist -------
+BODYGUARD (COMBAT)
+  Your swift strikes ward off enemies attacking nearby allies.
+  Prerequisite: Combat Reflexes.
+  Benefit: When an adjacent ally is attacked, you may use an attack of opportunity to attempt the aid another action to improve your ally’s AC. You may not use the aid another action to improve your ally’s attack roll with this attack.
+  Normal: Aid another is a standard action.
+
+ARCANE STRIKE (COMBAT)
+  You draw upon your arcane power to enhance your weapons with magical energy.
+
+  Prerequisite: Ability to cast arcane spells.
+
+  Benefit: As a swift action, you can imbue your weapons with a fraction of your power. For 1 round, your weapons deal +1 damage and are treated as magic for the purpose of overcoming damage reduction. For every five caster levels you possess, this bonus increases by +1, to a maximum of +5 at 20th level.
+
+  +
+  Gloves of Arcane Striking
+  Aura faint transmutation; CL 1st; Slot hands; Price 5,000 gp; Weight 1 lb.
+
+  DESCRIPTION
+
+  These soft leather gloves are decorated with even rows of mithral rivets.
+
+  Requirement: Only a spellcaster with the Arcane Strike feat can activate the abilities of these gloves.
+
+  These abilities are as follows:
+
+  When the wearer uses the aid another action to improve an ally’s attack roll, the ally adds the wearer’s Arcane Strike damage bonus to its damage roll for that attack.
+  When the wearer makes an attack using Arcane Strike and hits, enemies adjacent to the target take damage equal to the wearer’s Arcane Strike damage bonus. This damage is of the same type as the weapon’s damage (bludgeoning, piercing, and so on).
+  When the wearer uses the aid another action to improve an ally’s Armor Class, the ally also adds the wearer’s Arcane Strike damage bonus to his AC against the opponent.
+  CONSTRUCTION REQUIREMENTS
+
+  Feats Craft Wondrous Item, Arcane Strike, magic weapon; Cost 2,500 gp.
+
+
+GREATER WEAPON FOCUS (COMBAT)
+  Choose one type of weapon (including unarmed strike or grapple) for which you have already selected Weapon Focus. You are a master at your chosen weapon.
+  Prerequisites: Proficiency with selected weapon, Weapon Focus with selected weapon, base attack bonus +1, 8th-level fighter.
+  Benefit: You gain a +1 bonus on attack rolls you make using the selected weapon. This bonus stacks with other bonuses on attack rolls, including those from Weapon Focus.
+  Special: You can gain Greater Weapon Focus multiple times. Its effects do not stack. Each time you take the feat, it applies to a new type of weapon.
+
 
 
 CRITICAL FOCUS (COMBAT)
