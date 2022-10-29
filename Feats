@@ -38,7 +38,6 @@ WEAPON FINESSE (Combat)  [Finesse Training URogue1]
   Special: Natural weapons are considered light weapons.
 
 
-
 [HD2] Sorcerer 1
 
 The Blood Is the Life (Su): 5x day drink blood of recently dead 1d6hp acts as rations
@@ -55,10 +54,6 @@ WEAPON FOCUS (Combat) (Rapier) <- [Inspired Finesse]: +1 attack w/ Rapier
   Benefit: You gain a +1 bonus on all attack rolls you make using the selected weapon.
 
 COMBAT REFLEXES (COMBAT) [Level 3]
-  -You have more panache than the ordinary swashbuckler.
-  -Prerequisite(s): Amateur Swashbuckler or panache class feature.
-  -Benefit: You gain two more panache points at the start of each day, and your maximum panache increases by two.
-  -Special: If you have levels in the swashbuckler class, you can take this feat multiple times. Its effects stack.
   -You can make additional attacks of opportunity.
   -Benefit: You may make a number of additional attacks of opportunity per round equal to your Dexterity bonus.
   With this feat, you may also make attacks of opportunity while flat-footed.
@@ -98,14 +93,62 @@ ACCOMPLISHED SNEAK ATTACKER [Level 7]
 
 
 [HD8]
-IMPROVED CRITICAL (COMBAT) [RogueTalent]
-  Attacks made with your RAPIER are quite deadly.
-  Prerequisite: Proficient with weapon, base attack bonus +8.
-  Benefit: When using the weapon you selected, your threat range is doubled.
-  This effect doesn’t stack with any other effect that expands the threat range of a weapon.
+Debilitating injury,
+rogue talent ->
+MOBILITY (COMBAT)
+  You can easily move through a dangerous melee.
+  Prerequisites: Dex 13, Dodge.
+  Benefit: You get a +4 dodge bonus to Armor Class against attacks of opportunity caused when you move out of or within a threatened area. A condition that makes you lose your Dexterity bonus to Armor Class (if any) also makes you lose dodge bonuses.
+  Dodge bonuses stack with each other, unlike most types of bonuses.
+
+DODGE (COMBAT)
+  Your training and reflexes allow you to react swiftly to avoid an opponents’ attacks.
+  Prerequisite: Dex 13.
+  Benefit: You gain a +1 dodge bonus to your AC. A condition that makes you lose your Dex bonus to AC also makes you lose the benefits of this feat.
+
+UNCANNY DODGE
+  At 4th level, a rogue can react to danger before her senses would normally allow her to do so. She cannot be caught flat-footed, nor does she lose her Dexterity bonus to AC if the attacker is invisible. She still loses her Dexterity bonus to AC if immobilized. A rogue with this ability can still lose her Dexterity bonus to AC if an opponent successfully uses the feint action against her.
+
+  If a rogue already has uncanny dodge from a different class, she automatically gains improved uncanny dodge (see below) instead.
 
 
------- Wishlist -------
+----- FEAT PATH IDEAS:
+
+Run
+You are swift of foot.
+
+Benefit: When running, you move five times your normal speed (if wearing medium, light, or no armor and carrying no more than a medium load) or four times your speed (if wearing heavy armor or carrying a heavy load). If you make a jump after a running start (see Acrobatics), you gain a +4 bonus on your Acrobatics check. While running, you retain your Dexterity bonus to your Armor Class.
+
+Normal: You move four times your speed while running (if wearing medium, light, or no armor and carrying no more than a medium load) or three times your speed (if wearing heavy armor or carrying a heavy load), and you lose your Dexterity bonus to AC.
+
+--> DISORIENTING MANEUVER acro thru opponent +2 attack/+4 trip
+      Your erratic movements disorient your opponent.
+      Prerequisites: Dodge, Acrobatics 5 ranks.
+      Benefit: If you successfully use Acrobatics to tumble through an opponent’s space, you gain a +2 circumstance bonus on attack rolls against that opponent until the start of your next turn. If you choose to make a trip attempt against that opponent, you gain a +4 circumstance bonus on your combat maneuver check. This bonus on trip also lasts until the start of your next turn.
+
+
+--->ONCE BAB +8
+------->IMPROVED CRITICAL (COMBAT) [RogueTalent]
+            Attacks made with your RAPIER are quite deadly.
+            Prerequisite: Proficient with weapon, base attack bonus +8.
+            Benefit: When using the weapon you selected, your threat range is doubled.
+            This effect doesn’t stack with any other effect that expands the threat range of a weapon.
+--->COMBAT EXPERTISE (COMBAT)
+      You can increase your defense at the expense of your accuracy.
+      Prerequisite: Int 13.
+      Benefit: You can choose to take a –1 penalty on melee attack rolls and combat maneuver checks to gain a +1 dodge bonus to your Armor Class. When your base attack bonus reaches +4, and every +4 thereafter, the penalty increases by –1 and the dodge bonus increases by +1. You can only choose to use this feat when you declare that you are making an attack or a full-attack action with a melee weapon. The effects of this feat last until your next turn.
+-------->IMPROVED PARRY
+            Combat	Int 13, Combat Expertise
+            When you successfully parry a foe’s melee attack (with a dueling parry or the parry class feature), your next melee attack against the target does not allow the enemy to apply its Dexterity bonus to AC (if any). This attack must be made before the end of your next turn.
+-------->ACROBATIC
+            You are skilled at leaping, jumping, and flying.
+            Benefit: You get a +2 bonus on all Acrobatics and Fly skill checks. If you have 10 or more ranks in one of these skills, the bonus increases to +4 for that skill.
+------------>SLAYER’S FEINT (COMBAT)
+                You rely on your deceptive speed and agility instead of trickery to catch your opponents unprepared.
+                Prerequisite(s): Dex 15, Acrobatic or slayer level 1st, Combat Expertise, Acrobatics 1 rank.
+                Benefit: You can use Acrobatics instead of Bluff to feint in combat.
+
+
 BODYGUARD (COMBAT)
   Your swift strikes ward off enemies attacking nearby allies.
   Prerequisite: Combat Reflexes.
@@ -114,9 +157,7 @@ BODYGUARD (COMBAT)
 
 ARCANE STRIKE (COMBAT)
   You draw upon your arcane power to enhance your weapons with magical energy.
-
   Prerequisite: Ability to cast arcane spells.
-
   Benefit: As a swift action, you can imbue your weapons with a fraction of your power. For 1 round, your weapons deal +1 damage and are treated as magic for the purpose of overcoming damage reduction. For every five caster levels you possess, this bonus increases by +1, to a maximum of +5 at 20th level.
 
   +
@@ -145,21 +186,18 @@ GREATER WEAPON FOCUS (COMBAT)
   Benefit: You gain a +1 bonus on attack rolls you make using the selected weapon. This bonus stacks with other bonuses on attack rolls, including those from Weapon Focus.
   Special: You can gain Greater Weapon Focus multiple times. Its effects do not stack. Each time you take the feat, it applies to a new type of weapon.
 
+  CRITICAL FOCUS (COMBAT)
+    -You are trained in the art of causing pain.
+    -Prerequisites: Base attack bonus +9.
+    -Benefit: You receive a +4 circumstance bonus on attack rolls made to confirm critical hits
 
+    CANNY TUMBLE (Combat)
+    Your acrobatic prowess distracts your foes.
 
-CRITICAL FOCUS (COMBAT)
-  -You are trained in the art of causing pain.
-  -Prerequisites: Base attack bonus +9.
-  -Benefit: You receive a +4 circumstance bonus on attack rolls made to confirm critical hits
+    Prerequisite(s): Dodge, Mobility, Acrobatics 5 ranks.
 
-SLAYER’S FEINT (COMBAT)
-  -You rely on your deceptive speed and agility instead of trickery to catch your opponents unprepared.
-  -Prerequisite(s): Dex 15, Acrobatic or slayer level 1st, Combat Expertise, Acrobatics 1 rank.
-  -Benefit: You can use Acrobatics instead of Bluff to feint in combat.
+    Benefit: When you use Acrobatics to move through an opponent’s threatened area or space without provoking an attack of opportunity from that opponent, you gain a +2 circumstance bonus on your next melee attack roll against that opponent and that opponent is denied its Dexterity bonus to AC, as long as you make that attack before the start of your next turn.
 
-ACROBATIC
-  -You are skilled at leaping, jumping, and flying.
-  -Benefit: You get a +2 bonus on all Acrobatics and Fly skill checks. If you have 10 or more ranks in one of these skills, the bonus increases to +4 for that skill.
 
 BLOOD DRINKER (Dhampir)
   -Consuming blood reinvigorates you.

@@ -1,0 +1,18 @@
+
+
+/fx burn-holy @{target|Token to target|token_id}
+
+
+/fx beam-holy @{target|Caster|token_id} @{target|Target of spell|token_id}Í
+
+[[1d6 + #melee-dam-bump  +1 ]]
+  Dam:    1d6   +12  = +6 [FinesseTrain] + 3 [Precise Strike] +2 [WpnSpec] +1 [Magic],
+
+
+#melee-dam-bump
+#dex + #precision + #weapon-spec
+
+#magic-rapier
+En guard! Tomata thrusts lustily with her magical rapier...
+🗡  [[  1d20cs>16 + 15 +1 ]]  for [[ 1d6 + #dex + #precision + #wpnspec  ]] ....
+crit:?  🗡 [[  1d20cs>16 + 15 +1 ]]  for [[ 1d6 + #dex + #wpnspec ]]

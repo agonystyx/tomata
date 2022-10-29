@@ -45,7 +45,7 @@ Level 2: Sorcerer 1 Undead Bloodline Sanguine Wildbloodline
 
   Bloodline Arcana: your effective caster level +1 for necromancy school
 
-  THE BLOOD IS THE LIFE (Su): 5x day
+  THE BLOOD IS THE LIFE (Su): 6x day
     At 1st level, you can gain sustenance from the blood of the recently dead.
     As a standard action, you can drink the blood of a creature that died within the past minute.
     The creature must be corporeal, must be at least the same size as you, and must have blood.
@@ -127,6 +127,7 @@ Level 4: URogue 2
   BAB: +1   Fort: +0  Ref: +3  Will:	+0
   Evasion,
   rogue talent -> Combat Feat [Weapon Specialization]
+
 
 
 

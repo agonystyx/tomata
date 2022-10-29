@@ -13,6 +13,7 @@ Rations x2            2 lb
 Sack x1               1 lb
 Waterskin             4 lb
 Thieves' Tools (MW)   1 lb
+(MW Tool) for Acrobatics (move through threatened squares)
 
 
 ARMS
@@ -20,7 +21,7 @@ Arrows, silver x6
 Arrows, +1 x5
 Arrows, ghost touch x3
 Arrows, undead bane x2
-Mithral Rapier +1
+Mithral Rapier +1 Keen
 
 ARMOUR
 Buckler+1 	          AC: +2	–1Check	5%Fail   base: 5gp  + magic$$
@@ -29,12 +30,45 @@ Mithral Chain shirt+1	 AC: +5
 MAGIC ITEMS
 Handy Haversack
 Belt of Dex +2
-Wand Magic Missile x 66
+Wand Magic Missile x 63
 Amulet of Natural Armor + 1
 Boots of Elvenkind Acro +5
-Cloak
+Cloak of Resistance +1
+Ring of Protection +1
+Anatomy Doll
+Potion of Haste x 2
+wand of animate dead (10 charges)
+wand of command undead (6 charges) x 4 wands
+Flayleaf x 15 (Hallucinogenic DRug)
+
+GOLD:
+0 + 14,000 loot = 14,000
+14,000 -150 Remove Blindness = 13,850
+13,850 - 1430 Raise Dead Share = 12,420
+12,420 - 8000 Keen Rapier = 4,430
+4,430 - 750 Haste Potion = 3,680
 
 
+
+
+
+
+
+=============
+MW Tool (Acrobatics: Move through threatened)
+Performer’s Cape:
+Price 50 gp; Slot Shoulders; Weight 1 lbs.
+A flowing red cape that can dazzle opponents in battle. Using this tool, the user gains a +2 circumstance bonus on any acrobatics checks for moving through threatened squares.
+Masterwork billowous cloak
+
+----
+Flayleaf
+EDIT
+Flayleaf is a wiry shrub with reddish-brown leaves that grows in almost any temperate environment. Leaves are harvested and dried, and when smoked produce a powerful sedative and hallucinogenic effect similar to drunkenness. [1] Harvesting the leaves of this drug are dangerous due to the Flayleaf spiders that live on the plants.[1]
+
+Flayleaf as a Drug
+It is also a powerful analgesic and muscle relaxant, rendering the user immune to most pain for up to four hours. It also causes the user to become very susceptible to suggestion.[1] The berries of the flayleaf plant are sometimes crushed and mixed with dream spider venom and spiderberry tea to produce a potent hallucinogen called Riddleport Tea.[2] Unlike its cousin, the cabble-weed, flayleaf is highly addictive.[3] Cost varies across regions with a full pouch of it going for around 12 gp in the highly permissive city of Riddleport in Varisia.[4]
+----
 
 
 Wishlist
@@ -180,6 +214,17 @@ EXPEDITIOUS RETREAT
 
 
 ---- Notes -----
+ANATOMY DOLL
+  Aura faint necromancy; CL 5th; Slot none; Price 1,000 gp; Weight 1 lb.
+  This stuffed rag doll might resemble a child’s toy if not for the vital organs depicted on its cloth.
+  By dabbing the doll with a few drops of blood from a living creature (a standard action), the bearer can form a sympathetic link between the doll and the victim.
+  If the chosen victim has spell resistance, the doll must beat the target’s spell resistance to create the link. As a standard action, the bearer can twist or stab the doll; this gives the target the sickened condition for one round and deals 1 point of negative energy damage plus 1 point for each die of the doll bearer’s sneak attack damage (if any).
+  Each time the target is affected by the doll, it receives a DC 14 Will save to end the link. The doll’s holder needs line of effect to the victim, but not line of sight. Once linked to a particular creature, an anatomy doll cannot be linked to another creature, but the bearer can re-establish a broken link by anointing it with more of the target’s blood.
+  Feats Craft Wondrous Item, bestow curse, bleed Cost 500 gp.
+  https://www.d20pfsrd.com/magic-items/wondrous-items/c-d/doll-anatomy/
+
+
+
 BOOTS OF ELVENKIND
   Aura faint transmutation; CL 5th; Slot feet; Price 2,500 gp; Weight 1 lb.
   These soft boots are partially made out of living leaves and other natural materials.
@@ -211,3 +256,25 @@ MITHRAL
   Heavy armor	+9,000 gp
   Shield	+1,500 gp
   Other items	+500 gp/lb.
+
+
+-------
+
+Bestow Insight
+School enchantment (compulsion); Level bard 2, cleric 3, inquisitor 2, psychic 2, sorcerer/wizard 2, witch 2
+
+CASTING
+
+Casting Time 1 standard action
+Components V, S
+
+EFFECT
+
+Range touch
+Target one creature touched
+Duration 1 minute/level
+Saving Throw Will negates (harmless); Spell Resistance yes (harmless)
+
+DESCRIPTION
+
+When casting this spell, choose a single skill that you have at least one rank in. The target gains a +2 insight bonus on skill checks with this skill and is considered trained in that skill. The insight bonus increases by 1 for every four levels of the caster (maximum +6). Furthermore, once before the spell’s duration, the target can choose to roll two checks and take the greater result. Doing so ends the spell’s other effects.

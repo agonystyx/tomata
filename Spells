@@ -1,12 +1,13 @@
 Spells
 
 PER DAY:
-Sorc 1: 5 = 3+2 [Cha]
-  ------
-  ------
-  ------
-  ------
-  ------
+Sorc 1: 6 = 3+3 [Cha]
+  -
+  -
+  -
+  -
+  -
+  -
 
 KNOWN
 Sorc 0: 4
@@ -37,7 +38,7 @@ Sorc 1: 2
   REPAIR UNDEAD (necromancy)
     Casting Time 1 standard action
     Components V, S
-    Range touch
+    Range touch 🩸
     Target one undead creature touched (see text)
     Duration instantaneous
     Saving Throw Will half (harmless); Spell Resistance yes (harmless)
@@ -54,7 +55,7 @@ Sorc 1: 2
     Saving Throw Will negates or Will negates (harmless); see text; Spell Resistance yes
     This spell causes a wave of positive energy to spread from a point you designate, damaging foes vulnerable to positive energy and bolstering living creatures.
     Each creature damaged by positive energy in the area (such as undead) must succeed at a Will save or take 1d6 points of damage, plus 1 point for every 2 caster levels (maximum +5).
-    1d6 + 2 +1 [undead Subject of Study trait] 
+    1d6 + 2 +1 [undead Subject of Study trait]
     Haunts manifesting in the spell’s area also take this damage.
     This spell does not heal creatures healed by positive energy; such creatures instead gain a +2 bonus on saving throws against death effects, energy drain, negative energy, and effects directly caused by haunts.
     This bonus lasts for 1 round.
