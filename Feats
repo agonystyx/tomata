@@ -112,42 +112,107 @@ UNCANNY DODGE
   If a rogue already has uncanny dodge from a different class, she automatically gains improved uncanny dodge (see below) instead.
 
 
+[HD9]
+[Swash L4 Bonus feat]
+TWO-WEAPON FIGHTING (Combat)
+    You can fight with a weapon wielded in each of your hands. You can make one extra attack each round with the secondary weapon.
+    Prerequisite: Dex 15.
+    Benefit: Your penalties on attack rolls for fighting with two weapons are reduced. The penalty for your primary hand lessens by 2 and the one for your off hand lessens by 6. See Two-Weapon Fighting.
+    Normal: If you wield a second weapon in your off hand, you can get one extra attack per round with that weapon.
+    When fighting in this way you suffer a –6 penalty with your regular attack or attacks with your primary hand and a –10 penalty to the attack with your off hand.
+    If your off-hand weapon is light, the penalties are reduced by 2 each. An unarmed strike is always considered light.
+    Table: Two-Weapon Fighting Penalties
+    Circumstances	Primary Hand	Off Hand
+    Normal penalties	–6	–10
+    Off-hand weapon is light	–4	–8
+    Two-Weapon Fighting feat	–4	–4
+    Off-hand weapon is light and Two-Weapon Fighting feat	–2	–2
+
+
+
+CANNY TUMBLE (Combat) [L9 feat]
+  Your acrobatic prowess distracts your foes.
+  Prerequisite(s): Dodge, Mobility, Acrobatics 5 ranks.
+  Benefit: When you use Acrobatics to move through an opponent’s threatened area or space without provoking an attack of opportunity from that opponent, you gain a +2 circumstance bonus on your next melee attack roll against that opponent and that opponent is denied its Dexterity bonus to AC, as long as you make that attack before the start of your next turn.
+
+[HD10]
+RAPIER TRAINING (Ex) +1 attack +2 dam rapier, Improved Critical
+  At 5th level, an inspired blade gains a +1 bonus on attack rolls and a +2 bonus on damage rolls with rapiers.
+  While wielding a rapier, she gains the benefit of the Improved Critical feat.
+  These attack and damage bonuses increase by 1 for every 4 levels beyond 5th (to a maximum of +4 on attack rolls and +5 on damage rolls at 17th level).
+
+
+[HD11]
+CONFOUNDING TUMBLE DEED (PANACHE) [L11 feat]
+  You can befuddle a foe by striking a blow after tumbling.
+  Prerequisite(s): Amateur Swashbuckler feat or panache class feature, Canny Tumble, Acrobatics 7 ranks.
+  Benefit: When you use Acrobatics to move through an opponent’s threatened area or space without provoking an attack of opportunity from that opponent and then hit that foe with a melee attack in the same round, as a free action you can spend 1 panache point to deny that foe its Dexterity bonus to its armor class until the end of your next turn.
+
+
+
+Rogues Edge (Skill unlocks)
+
+
 ----- FEAT PATH IDEAS:
 
-Run
-You are swift of foot.
+TOP
+====
 
-Benefit: When running, you move five times your normal speed (if wearing medium, light, or no armor and carrying no more than a medium load) or four times your speed (if wearing heavy armor or carrying a heavy load). If you make a jump after a running start (see Acrobatics), you gain a +4 bonus on your Acrobatics check. While running, you retain your Dexterity bonus to your Armor Class.
+IMPROVED TWO-WEAPON FIGHTING (Combat)
+  You are skilled at fighting with two weapons.
+  Prerequisites: Dex 17, Two-Weapon Fighting, base attack bonus +6.
+  Benefit: In addition to the standard single extra attack you get with an off-hand weapon, you get a second attack with it, albeit at a –5 penalty.
+  Normal: Without this feat, you can only get a single extra attack with an off-hand weapon.
 
-Normal: You move four times your speed while running (if wearing medium, light, or no armor and carrying no more than a medium load) or three times your speed (if wearing heavy armor or carrying a heavy load), and you lose your Dexterity bonus to AC.
+
+RUN
+  You are swift of foot.
+  Benefit: When running, you move five times your normal speed (if wearing medium, light, or no armor and carrying no more than a medium load) or four times your speed (if wearing heavy armor or carrying a heavy load). If you make a jump after a running start (see Acrobatics), you gain a +4 bonus on your Acrobatics check. While running, you retain your Dexterity bonus to your Armor Class.
+  Normal: You move four times your speed while running (if wearing medium, light, or no armor and carrying no more than a medium load) or three times your speed (if wearing heavy armor or carrying a heavy load), and you lose your Dexterity bonus to AC.
+  With the Improved Feint feat, you can attempt a feint as a move action.
+
+GREATER FEINT (Combat)
+  You are skilled at making foes overreact to your attacks.
+  Prerequisites: Combat Expertise, Improved Feint, base attack bonus +6, Int 13.
+  Benefit: Whenever you use feint to cause an opponent to lose his Dexterity bonus, he loses that bonus until the beginning of your next turn, in addition to losing his Dexterity bonus against your next attack.
+  Normal: A creature you feint loses its Dexterity bonus against your next attack.
+
 
 --> DISORIENTING MANEUVER acro thru opponent +2 attack/+4 trip
       Your erratic movements disorient your opponent.
       Prerequisites: Dodge, Acrobatics 5 ranks.
       Benefit: If you successfully use Acrobatics to tumble through an opponent’s space, you gain a +2 circumstance bonus on attack rolls against that opponent until the start of your next turn. If you choose to make a trip attempt against that opponent, you gain a +4 circumstance bonus on your combat maneuver check. This bonus on trip also lasts until the start of your next turn.
 
+TWO-WEAPON FIGHTING (Combat)
 
---->ONCE BAB +8
-------->IMPROVED CRITICAL (COMBAT) [RogueTalent]
-            Attacks made with your RAPIER are quite deadly.
-            Prerequisite: Proficient with weapon, base attack bonus +8.
-            Benefit: When using the weapon you selected, your threat range is doubled.
-            This effect doesn’t stack with any other effect that expands the threat range of a weapon.
+
 --->COMBAT EXPERTISE (COMBAT)
       You can increase your defense at the expense of your accuracy.
       Prerequisite: Int 13.
       Benefit: You can choose to take a –1 penalty on melee attack rolls and combat maneuver checks to gain a +1 dodge bonus to your Armor Class. When your base attack bonus reaches +4, and every +4 thereafter, the penalty increases by –1 and the dodge bonus increases by +1. You can only choose to use this feat when you declare that you are making an attack or a full-attack action with a melee weapon. The effects of this feat last until your next turn.
--------->IMPROVED PARRY
-            Combat	Int 13, Combat Expertise
-            When you successfully parry a foe’s melee attack (with a dueling parry or the parry class feature), your next melee attack against the target does not allow the enemy to apply its Dexterity bonus to AC (if any). This attack must be made before the end of your next turn.
--------->ACROBATIC
-            You are skilled at leaping, jumping, and flying.
-            Benefit: You get a +2 bonus on all Acrobatics and Fly skill checks. If you have 10 or more ranks in one of these skills, the bonus increases to +4 for that skill.
------------->SLAYER’S FEINT (COMBAT)
-                You rely on your deceptive speed and agility instead of trickery to catch your opponents unprepared.
-                Prerequisite(s): Dex 15, Acrobatic or slayer level 1st, Combat Expertise, Acrobatics 1 rank.
-                Benefit: You can use Acrobatics instead of Bluff to feint in combat.
 
+------------>IMPROVED PARRY	Combat	Int 13, Combat Expertise
+        When you successfully parry a foe’s melee attack (with a dueling parry or the parry class feature), your next melee attack against the target does not allow the enemy to apply its Dexterity bonus to AC (if any). This attack must be made before the end of your next turn.
+------------>SLAYER’S FEINT (COMBAT)
+  You rely on your deceptive speed and agility instead of trickery to catch your opponents unprepared.
+  Prerequisite(s): Dex 15, Acrobatic or slayer level 1st, Combat Expertise, Acrobatics 1 rank.
+  Benefit: You can use Acrobatics instead of Bluff to feint in combat.
+------------>TWO-WEAPON FEINT (Combat)
+    You use one weapon to distract your enemy while slipping another past his defenses.
+    Prerequisite: Dex 15, Int 13, Combat Expertise, Two-Weapon Fighting.
+    Benefit: While using Two-Weapon Fighting to make melee attacks, you can forgo your first primary-hand melee attack to make a Bluff check to feint an opponent.
+
+IMPROVED TWO-WEAPON FIGHTING (Combat)
+    You are skilled at fighting with two weapons.
+    Prerequisites: Dex 17, Two-Weapon Fighting, base attack bonus +6.
+    Benefit: In addition to the standard single extra attack you get with an off-hand weapon, you get a second attack with it, albeit at a –5 penalty.
+    Normal: Without this feat, you can only get a single extra attack with an off-hand weapon.
+
+TWO-WEAPON DEFENSE (Combat)
+    You are skilled at defending yourself while dual-wielding.
+    Prerequisites: Dex 15, Two-Weapon Fighting.
+    Benefit: When wielding a double weapon or two weapons (not including natural weapons or unarmed strikes), you gain a +1 shield bonus to your AC.
+    When you are fighting defensively or using the total defense action, this shield bonus increases to +2.
 
 BODYGUARD (COMBAT)
   Your swift strikes ward off enemies attacking nearby allies.
@@ -155,30 +220,10 @@ BODYGUARD (COMBAT)
   Benefit: When an adjacent ally is attacked, you may use an attack of opportunity to attempt the aid another action to improve your ally’s AC. You may not use the aid another action to improve your ally’s attack roll with this attack.
   Normal: Aid another is a standard action.
 
-ARCANE STRIKE (COMBAT)
-  You draw upon your arcane power to enhance your weapons with magical energy.
-  Prerequisite: Ability to cast arcane spells.
-  Benefit: As a swift action, you can imbue your weapons with a fraction of your power. For 1 round, your weapons deal +1 damage and are treated as magic for the purpose of overcoming damage reduction. For every five caster levels you possess, this bonus increases by +1, to a maximum of +5 at 20th level.
-
-  +
-  Gloves of Arcane Striking
-  Aura faint transmutation; CL 1st; Slot hands; Price 5,000 gp; Weight 1 lb.
-
-  DESCRIPTION
-
-  These soft leather gloves are decorated with even rows of mithral rivets.
-
-  Requirement: Only a spellcaster with the Arcane Strike feat can activate the abilities of these gloves.
-
-  These abilities are as follows:
-
-  When the wearer uses the aid another action to improve an ally’s attack roll, the ally adds the wearer’s Arcane Strike damage bonus to its damage roll for that attack.
-  When the wearer makes an attack using Arcane Strike and hits, enemies adjacent to the target take damage equal to the wearer’s Arcane Strike damage bonus. This damage is of the same type as the weapon’s damage (bludgeoning, piercing, and so on).
-  When the wearer uses the aid another action to improve an ally’s Armor Class, the ally also adds the wearer’s Arcane Strike damage bonus to his AC against the opponent.
-  CONSTRUCTION REQUIREMENTS
-
-  Feats Craft Wondrous Item, Arcane Strike, magic weapon; Cost 2,500 gp.
-
+BLEEDING CRITICAL (Combat, Critical)
+  Your critical hits cause opponents to bleed profusely.
+  Prerequisites: Critical Focus, base attack bonus +11.
+  Benefit: Whenever you score a critical hit with a slashing or piercing weapon, your opponent takes 2d6 points of bleed damage each round on his turn, in addition to the damage dealt by the critical hit. Bleed damage can be stopped by a DC 15 Heal skill check or through any magical healing. The effects of this feat stack.
 
 GREATER WEAPON FOCUS (COMBAT)
   Choose one type of weapon (including unarmed strike or grapple) for which you have already selected Weapon Focus. You are a master at your chosen weapon.
@@ -191,13 +236,13 @@ GREATER WEAPON FOCUS (COMBAT)
     -Prerequisites: Base attack bonus +9.
     -Benefit: You receive a +4 circumstance bonus on attack rolls made to confirm critical hits
 
-    CANNY TUMBLE (Combat)
-    Your acrobatic prowess distracts your foes.
-
-    Prerequisite(s): Dodge, Mobility, Acrobatics 5 ranks.
-
-    Benefit: When you use Acrobatics to move through an opponent’s threatened area or space without provoking an attack of opportunity from that opponent, you gain a +2 circumstance bonus on your next melee attack roll against that opponent and that opponent is denied its Dexterity bonus to AC, as long as you make that attack before the start of your next turn.
-
+  TWIST AWAY
+    Your quick reflexes and dexterous movements make up for your lack of stamina.
+    Prerequisite(s): Evasion.
+    Benefit: While you are wearing light armor or no armor, if you are forced to attempt a Fortitude saving throw, you can use an immediate action to instead attempt a Reflex saving throw (at the same DC).
+    If you succeed at this saving throw and the attack has a reduced effect on a successful save, you avoid the effect entirely.
+    Whether the saving throw is successful or not, you are staggered until the end of your next turn.
+    If you are prevented from becoming staggered, you can’t use Twist Away, nor can you ignore the staggered condition from Twist Away or remove it early
 
 BLOOD DRINKER (Dhampir)
   -Consuming blood reinvigorates you.

@@ -1,62 +1,63 @@
 Tomata Pastyface Wetlocks
-URogue 4, Sorc 1, Swash 3
+URogue 5, Sorc 1, Swash 5
 
+Init: +8
+AC : 28           = 10    +10  ( +6 [Dex] +1 [Dodge] +1 [Nimble] +2 [Ring])
+                              +8  ( +5 [Mithral Chain Shirt+2]  +2 [AmuletNat] )
 
-Init:
+AC with buckler: 30           = 10    +10  ( +6 [Dex] +1 [Dodge] +1 [Nimble] +2 [Ring])
+                              +10  ( +5 [Mithral Chain Shirt+2] +2 [Buckler+1] +2 [AmuletNat] )
 
-AC: 27                = 10    +9  ( +6 [Dex] +1 [Dodge] +1 [Nimble] +1 [Ring] )
-                              +8  ( +5 [Mithral Chain Shirt+1] +2 [Buckler+1] +1 [AmuletNat] )
-AC with "Shield": 29  = 10    +9  ( +6 [Dex] +1 [Dodge] +1 [Nimble] +1 [Ring] )
-                              +10 ( +5 [Mithral Chain Shirt+1] +4 ["Shield"] +1 [AmuletNat] )
-
-AC with "Blindness": 21  = 10 +3  ( +1 [Dodge] +1 [Nimble] +1 [Ring] )
-                              +8 ( +5 [Mithral Chain Shirt+1] +2 [Buckler+1] +1 [AmuletNat] )
+AC with "Shield": 32  = 10    +10  ( +6 [Dex] +1 [Dodge] +1 [Nimble] +2 [Ring])
+                              +12 ( +5 [Mithral Chain Shirt+2] +4 ["Shield"] +2 [AmuletNat] )
     +1 dodge bonus vs attacks made by traps.
     +1 dodge [NIMBLE]
     +3 dodge bonus to AC when fighting defensively (instead of +2) [Acro]
     +6 dodge bonus to AC when total defense (instead of +4) [Acro]
 
-HP: 43
-BAB: +6
-CMD: +23
-CMB: +6
+HP: 64
+BAB: +8
+CMD: +25
+CMB: +8
 
-Fort: +0
-Ref:  +4
-Will: +2
+Fort: +4
+Ref:  +16
+Will: +6
 
-Charmed Life: _ _ _  +3 [Cha] to save
-Panache: 7 x x x x _ _ _
+Charmed Life: x x _  +3 [Cha] to save
+Panache: 7 x _ _ _ _ _ _
 
-Sneak Attack: 3d6 = +2d6 [URogue3]  +1d6 [AccomplishedSneak]
-Bite Attack:  1d20+12   +1(undead)  Dam: 1d4     +2(undead)  + 1d4 bleed once per day
-Rapier:       1d20+14   +1(undead)  Dam: 1d6+11  +2(undead) Crit 16–20/x2 piercing
-
-
-
+Sneak Attack: 4d6 = +3d6 [URogue5]  +1d6 [AccomplishedSneak]
+Bite Attack:  1d20+13   +1(undead)  Dam: 1d4     +2(undead)  + 1d4 bleed once per day
+Rapier:       1d20+18   +1(undead)  Dam: 1d6+14  +2(undead) Crit 16–20/x2 piercing
 
 ============
-Init: +7  = +6 [Dex] +2 [Swash3+panache]
-BAB: +6 = +3 [Swash3]  +3 [URogue4] + 0 [Sorc1]
-HP: 43  = +8 [HD1] +4 [HD2] +7 [HD3] +5 [HD4] +6 [HD5] +5 [HD6]  +7 [HD7] +5 [HD8]
+Init: +8  = +6 [Dex] +2 [Swash3+panache]
+BAB: +8 = +5 [Swash5]  +3 [URogue4] + 0 [Sorc1]
+HP: 64  = +8 [HD1] +4 [HD2] +7 [HD3] +5 [HD4] +6 [HD5] +5 [HD6]  +8 [HD7] +5 [HD8]  +8 [HD9] + 7 [HD10] + 5 [HD11]
 
 CMB = Base attack bonus + Strength modifier + special size modifier
-    = 6 + 0  +  0
+    8 = 8 + 0  +  0
 
 CMD = 10 + Base attack bonus + Strength modifier + Dexterity modifier + special size modifier + miscellaneous modifiers
-    = 23 = 10 + 6 BAB + 0 STR + 6 DEX + 0 SIZE + 1 [?]
-
+    = 25 = 10 + 8 BAB + 0 STR + 6 DEX + 0 SIZE + 1 [?]
 Miscellaneous Modifiers
 A creature can also add any circumstance, deflection, dodge, insight, luck, morale, profane, and sacred bonuses to AC to its CMD.
 Any penalties to a creature’s AC also apply to its CMD.
 A flat-footed creature does not add its Dexterity bonus to its CMD.
 
 Bite Attack:
-  Attack: 1d20  +12 = +6 [DEX] +6 [BAB], +1(undead)
+  Attack: 1d20  +14 = +6 [DEX] +8 [BAB], +1(undead)
   Dam: 1d4,  +2(undead) + 1d4 bleed once per day
 
-Rapier:
-  Attack: 1d20  +14 +1(undead) = +6 [DEX] +6 [BAB] +1 [WpnFocus]  +1 [Magic]
-  Dam:    1d6   +11 +2(undead) = +6 [DEX]+ 3 [PreciseStrike] +2 [WpnSpec]
++2 Rapier:
+  Attack: 1d20  +18 +1(undead) = +6 [DEX] +8 [BAB] +1 [WpnFocus] +1 [RapierTrain] +2 [Magic]
+  Dam:    1d6   +17 +2(undead) = +6 [DEX]+ 5 [PreciseStrike] +2 [WpnSpec] +2 [RapierTrain] +2 [Magic]
+
+Attack:
+Primary   1d20  +18
+Off-hand  1d20  +18
+Iterative 1d20  +13
+
 
 Panache: 7 = +3 [Cha] +2 [Int] +2 [ExtraPan]

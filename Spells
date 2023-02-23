@@ -2,11 +2,11 @@ Spells
 
 PER DAY:
 Sorc 1: 6 = 3+3 [Cha]
-  -
-  -
-  -
-  -
-  -
+  REPAIR UNDEAD
+  REPAIR UNDEAD
+  REPAIR UNDEAD
+  REPAIR UNDEAD
+  EXPEDITIOUS RETREAT
   -
 
 KNOWN
@@ -46,17 +46,87 @@ Sorc 1: 2
     This spell has no effect on living creatures, except those that are healed by negative energy are also healed by the spell.
     https://www.d20pfsrd.com/magic/all-spells/r/repair-undead
 
-  POSITIVE PULSE (necromancy)
+  POSITIVE PULSE (necromancy) <-- RETRAIN Level9 --> "EXPEDITIOUS RETREAT"
+
+  EXPEDITIOUS RETREAT (transmutation)
     Casting Time 1 standard action
     Components V, S
-    Range close 30 ft (25 ft. + 5 ft./2 levels)
-    Area 5-ft.-radius burst
-    Duration instantaneous plus 1 round (see text)
-    Saving Throw Will negates or Will negates (harmless); see text; Spell Resistance yes
-    This spell causes a wave of positive energy to spread from a point you designate, damaging foes vulnerable to positive energy and bolstering living creatures.
-    Each creature damaged by positive energy in the area (such as undead) must succeed at a Will save or take 1d6 points of damage, plus 1 point for every 2 caster levels (maximum +5).
-    1d6 + 2 +1 [undead Subject of Study trait]
-    Haunts manifesting in the spell’s area also take this damage.
-    This spell does not heal creatures healed by positive energy; such creatures instead gain a +2 bonus on saving throws against death effects, energy drain, negative energy, and effects directly caused by haunts.
-    This bonus lasts for 1 round.
-    https://www.d20pfsrd.com/magic/all-spells/p/positive-pulse
+    Range personal
+    Target you
+    Duration 1 min./level (D)
+    This spell increases your base land speed by 30 feet. This adjustment is treated as an enhancement bonus.
+    There is no effect on other modes of movement, such as burrow, climb, fly, or swim.
+    As with any effect that increases your speed, this spell affects your jumping distance (see the Acrobatics skill).
+
+    Page of Spell Knowledge [Vanish]
+    Page of Spell Knowledge [Stumble Gap]
+    Page of Spell Knowledge [Shield]
+    Page of Spell Knowledge [Protection from Evil]
+    Page of Spell Knowledge [Obscuring Mist]
+    Page of Spell Knowledge [True Strike]
+    Page of Spell Knowledge [Windy Escape]
+    Page of Spell Knowledge [Moment of Greatness]
+--------
+
+
+
+VANISH
+  School illusion (glamer); Level bard 1, magus 1, psychic 1, sorcerer/wizard 1
+  Casting Time 1 standard action
+  Components V, S
+  Range touch
+  Targets creature touched
+  Duration 1 round/level (up to 5 rounds) (D)
+  Saving Throw Will negates (harmless); Spell Resistance yes (harmless)
+  This spell functions like invisibility, except the effect only lasts for 1 round per caster level (maximum of 5 rounds). Like invisibility, the spell immediately ends if the subject attacks any creature.
+
+STUMBLE GAP
+  School conjuration (creation); Level sorcerer/wizard 1
+  Casting Time 1 standard action
+  Components V, S, F (miniature shovel costing 10 gp)
+  Range close (25 ft. + 5 ft./2 levels)
+  Effect see text
+  Duration 1 round + 1 round/level
+  Saving Throw Reflex partial; Spell Resistance no
+
+
+   You create a shallow extra-dimensional hole perfectly sized to trip anyone who steps within it. This hole occupies a single 5-foot square with a depth of six inches. Any creature occupying the square when you first create the hole, or who later steps into the square containing the hole, must make a Reflex saving throw to avoid falling prone in an adjacent square and taking 1d6 points of damage. A creature that makes its saving throw still stumbles ever so slightly and takes a -1 penalty on all rolls and checks for 1 round. The spell has no effect on creatures adjacent to the square containing the hole.
+
+MOMENT OF GREATNESS
+   School enchantment (compulsion) [mind-affecting]; Level bard 1, cleric 1, psychic 1, sorcerer/wizard 1; Bloodline imperious 1
+   Casting Time 1 standard action
+   Components V, S, M/DF (rabbit fur)
+   Range 50 ft.
+   Target The caster and allies within a 50-ft. burst centered on the caster
+   Duration 1 minute/level or until discharged
+   Saving Throw none; Spell Resistance yes (harmless)
+   Each creature affected by this spell is given the potential for greater success and glory.
+   If the affected creature is benefiting from a morale bonus of any type, it can double that morale bonus on one roll or check, before making the roll.
+   Once an affected creature uses this spell’s effect, the spell is discharged for that subject.
+
+WINDY ESCAPE
+   School transmutation [air]; Level bard 1, bloodrager 1, druid 1, magus 1, sorcerer/wizard 1 (sylph)
+   Casting Time 1 immediate action
+   Components V, S
+   Range personal
+   Target you
+   Duration instantaneous
+   You respond to an attack by briefly becoming vaporous and insubstantial, allowing the attack to pass harmlessly through you.
+   You gain DR 10/magic against this attack and are immune to any poison, sneak attacks, or critical hit effect from that attack.
+   You cannot use windy escape against an attack of opportunity you provoked by casting a spell, using a spell-like ability, or using any other magical ability that provokes an attack of opportunity when used.
+
+OBSCURING MIST
+   School conjuration (creation); Level cleric/oracle 1, druid 1, magus 1, shaman 1, sorcerer/wizard 1, unchained summoner 1, witch 1; Domain air 1, darkness 1, water 1, weather 1; Bloodline ectoplasm 1; Elemental School water 1
+   Casting Time 1 standard action
+   Components V, S
+   Range 20 ft.
+   Effect cloud spreads in 20-ft. radius from you, 20 ft. high
+   Duration 1 min./level (D)
+   Saving Throw none; Spell Resistance no
+   A misty vapor arises around you. It is stationary. The vapor obscures all sight, including darkvision, beyond 5 feet.
+   A creature 5 feet away has concealment (attacks have a 20% miss chance).
+   Creatures farther away have total concealment (50% miss chance, and the attacker cannot use sight to locate the target).
+   A moderate wind (11+ mph), such as from a gust of wind spell, disperses the fog in 4 rounds.
+   A strong wind (21+ mph) disperses the fog in 1 round.
+   A fireball, flame strike, or similar spell burns away the fog in the explosive or fiery spell’s area. A wall of fire burns away the fog in the area into which it deals damage.
+   This spell does not function underwater.

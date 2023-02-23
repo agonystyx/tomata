@@ -103,7 +103,7 @@ Level 3: Swashbuckler Inspired Blade 1  *Favoured Class*
       Upon performing a successful parry and if she has at least 1 panache point, the swashbuckler can as an immediate action make an attack against the creature whose attack she parried, provided that creature is within her reach.
       This deed's cost cannot be reduced by any ability or effect that reduces the number of panache points a deed costs.
 
-
+      Level 3 Feat:
 
 Level 4: URogue 2
 ----------------
@@ -157,7 +157,6 @@ Level 5: Swashbuckler Inspired Blade 2  *Favoured Class*
 
 Level 6: URogue 3
 -----------------
-
   Skills: 10 = 8 +2 [Int]
     1 UMD
     1 Acro
@@ -229,7 +228,6 @@ Level 7: Swashbuckler Inspired Blade 3  *Favoured Class*
 
 Level 8: URogue 4
 -----------------------
-
   +1 Dex
 
   Skills: 10 = 8 +2 [Int]
@@ -242,7 +240,7 @@ Level 8: URogue 4
     1 Bluff
     1 Bluff
     1 Bluff
-    1 Bluff
+    1 Spellcraft
 
   	+3	+1	+4	+1
     Debilitating injury,
@@ -259,22 +257,73 @@ Level 8: URogue 4
       If a rogue already has uncanny dodge from a different class, she automatically gains improved uncanny dodge (see below) instead.
 
     DEBILITATING INJURY (EX)
-      At 4th level, whenever a rogue deals sneak attack damage to a foe, she can also debilitate the target of her attack, causing it to take a penalty for 1 round (this is in addition to any penalty caused by a rogue talent or other special ability).
-      The rogue can choose to apply any one of the following penalties when the damage is dealt.
+        At 4th level, whenever a rogue deals sneak attack damage to a foe, she can also debilitate the target of her attack, causing it to take a penalty for 1 round (this is in addition to any penalty caused by a rogue talent or other special ability).
+        The rogue can choose to apply any one of the following penalties when the damage is dealt.
 
-      BEWILDERED:
-      The target becomes bewildered, taking a –2 penalty to AC.
-      The target takes an additional –2 penalty to AC against all attacks made by the rogue.
+      bewildered: -2 AC
+        The target becomes bewildered, taking a –2 penalty to AC.
+        The target takes an additional –2 penalty to AC against all attacks made by the rogue.
 
+      disoriented: -2 attack
+        The target takes a –2 penalty on attack rolls.
+        In addition, the target takes an additional –2 penalty on all attack rolls it makes against the rogue.
 
-      DISORIENTED:
-      The target takes a –2 penalty on attack rolls.
-      In addition, the target takes an additional –2 penalty on all attack rolls it makes against the rogue.
-
-      HAMPERED:
-      All of the target’s speeds are reduced by half (to a minimum of 5 feet).
-      In addition, the target cannot take a 5-foot step.
+      hampered: half speed, no 5ft step
+        All of the target’s speeds are reduced by half (to a minimum of 5 feet).
+        In addition, the target cannot take a 5-foot step.
 
       These penalties do not stack with themselves, but additional attacks that deal sneak attack damage extend the duration by 1 round.
       A creature cannot suffer from more than one penalty from this ability at a time.
       If a new penalty is applied, the old penalty immediately ends. Any form of healing applied to a target suffering from one of these penalties also removes the penalty.
+
+
+Level 9: Swash4
+-----------------
+Bonus Feats [Swash4]
+Relearn a feat [Swash4]
+
+Skills: 6 = 4 +2 [Int]
+  1 UMD
+  1 Acro
+  1 Disable Device
+  1 Perception
+  1 Arcana
+  1 Escape Artist
+
+HP: +7 [1/2 HD10 + 1] +1 [FavouredClass]
+
+
+Level 10: Swash5
+-----------------
+Skills: 6 = 4 +2 [Int]
+  1 UMD
+  1 Acro
+  1 Disable Device
+  1 Perception
+  1 Escape Artist
+  1 Swim
+
+HP: +7 [1/2 HD10 + 1] +1 [FavouredClass]
+Swashbuckler weapon training +1
+
+
+Level 11: URogue5
+------------------
+
+Skills: 10 = 8 +2 [Int]
+  1 UMD
+  1 Acro
+  1 Disable Device
+  1 Perception
+  1 Escape Artist
+  1 Know (Arcana)
+  1 Know (Arcana)
+  1 Know (Religion)
+  1 Escape Artist
+  1 Spellcraft
+
+HP: +5 [1/2 HD8 +1]
+
+5th	+3	+1	+4	+1
+Rogue’s edge,
+sneak attack +3d6

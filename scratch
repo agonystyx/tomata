@@ -1,4 +1,86 @@
-update
+advance and tumble past squares threatened by the dim shambler
+
+
+
+Closer reading is making me think they stack
+Canny Tumble <--  use Acrobatics to move through an opponent’s threatened area or space without provoking an attack of opportunity
+Disorienting Maneuver <-- use Acrobatics  to move through an opponent's space
+
+Stunning Barrier
+School abjuration; Level cleric 1, inquisitor 1, paladin 1, psychic 1, sorcerer/wizard 1
+
+CASTING
+
+Casting Time 1 standard action
+Components V, S
+
+EFFECT
+
+Range personal
+Target you
+Duration 1 round/level or until discharged
+Saving Throw none and Will negates (see text); Spell Resistance no and yes (see text)
+
+DESCRIPTION
+
+You are closely surrounded by a barely visible magical field. The field provides a +1 deflection bonus to AC and a +1 resistance bonus on saves. Any creature that strikes you with a melee attack is stunned for 1 round (Will negates). Once the field has stunned an opponent, the spell is discharged.
+
+Stumble Gap
+School conjuration (creation); Level sorcerer/wizard 1
+
+CASTING
+
+Casting Time 1 standard action
+Components V, S, F (miniature shovel costing 10 gp)
+
+EFFECT
+
+Range close (25 ft. + 5 ft./2 levels)
+Effect see text
+Duration 1 round + 1 round/level
+Saving Throw Reflex partial; Spell Resistance no
+
+DESCRIPTION
+
+You create a shallow extra-dimensional hole perfectly sized to trip anyone who steps within it. This hole occupies a single 5-foot square with a depth of six inches. Any creature occupying the square when you first create the hole, or who later steps into the square containing the hole, must make a Reflex saving throw to avoid falling prone in an adjacent square and taking 1d6 points of damage. A creature that makes its saving throw still stumbles ever so slightly and takes a -1 penalty on all rolls and checks for 1 round. The spell has no effect on creatures adjacent to the square containing the hole.
+
+True Strike
+School divination; Level alchemist 1, bloodrager 1, inquisitor 1, magus 1, psychic 1, sorcerer/wizard 1; Domain destruction 1, luck 1; Subdomain fist 1; Bloodline astral 1; Elemental School void 1
+
+CASTING
+
+Casting Time 1 standard action
+Components V, F (small wooden replica of an archery target)
+
+EFFECT
+
+Range personal
+Target you
+Duration see text
+
+DESCRIPTION
+
+You gain temporary, intuitive insight into the immediate future during your next attack. Your next single attack roll (if it is made before the end of the next round) gains a +20 insight bonus. Additionally, you are not affected by the miss chance that applies to attackers trying to strike a concealed target.
+
+
+Protection from Aberrations
+School abjuration; Level sorcerer/wizard 2
+
+CASTING
+
+Casting Time 1 standard action
+Components V, S, M
+
+EFFECT
+
+Range touch
+Target creature touched
+Duration 1 min/level (D)
+Saving Throw Will negates (harmless); Spell Resistance no
+
+DESCRIPTION
+
+This spell wards a creature from attacks by creatures with the aberration type. First, against attacks made by aberrations, the subject gains a +2 deflection bonus to AC and a +2 resistance bonus on saves. Next, the subject becomes immune to any effects caused by an aberration that can be removed by remove disease or remove curse. Lastly, the subject immediately receives another save against spells or effects originating from an aberration that attempts to gain mental control over the creature, with a +2 moral bonus.
 
 /fx beam-fire @{target|Caster|token_id} @{target|Token to target|token_id}
 /fx burst-fire @{target|Token to target|token_id}
@@ -8,13 +90,14 @@ update
 /fx glow-fire @{target|Token to target|token_id}
 /fx bubbling-fire @{target|Token to target|token_id}
 
-It's true what they say, when you lose one sense the others are enhanced
-my sense of cool
 
 /fx burst-frost @{target|Token to target|token_id}
 
 
-Snapping Flank	Combat, Teamwork	BAB +9, bite attack	Whenever you are flanking with an ally who also has this feat, as a swift action you can make a bite attack against the opponent you and your ally are flanking.
+lizard
+
+
+You play with
 
  (COMBAT)
 Acrobatic
@@ -45,13 +128,9 @@ Spellcasting
 Caster level × spell level × 10
 5 x 3 x 10 = 150gp
 
+https://github.com/agonystyx/tomata
 
 Outflank (Combat, Teamwork)
 You look for every edge when flanking an enemy.
 Prerequisite: Base attack bonus +4.
 Benefit: Whenever you and an ally who also has this feat are flanking the same creature, your flanking bonus on attack rolls increases to +4. In addition, whenever you score a critical hit against the flanked creature, it provokes an attack of opportunity from your ally.
-
-Deceitful
-You are skilled at deceiving others, both with the spoken word and with physical disguises.
-
-Benefit: You get a +2 bonus on all Bluff and Disguise skill checks. If you have 10 or more ranks in one of these skills, the bonus increases to +4 for that skill.

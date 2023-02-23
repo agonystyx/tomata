@@ -1,6 +1,9 @@
 1402
 -100 shake down by starving people
 
+
+
+
 MUNDANE ITEMS
 Backpack              2 lb
 Blanket, winter       3 lb
@@ -17,29 +20,48 @@ Thieves' Tools (MW)   1 lb
 
 
 ARMS
-Arrows, silver x6
-Arrows, +1 x5
-Arrows, ghost touch x3
-Arrows, undead bane x2
-Mithral Rapier +1 Keen
++2 mithral rapier
++2 cold iron rapier + (effortless lace)
+Dagger +1
+
 
 ARMOUR
-Buckler+1 	          AC: +2	–1Check	5%Fail   base: 5gp  + magic$$
-Mithral Chain shirt+1	 AC: +5
+(not worn) Buckler+1 	          AC: +2	–1Check	5%Fail   base: 5gp  + magic$$
+Mithral Corsair Chain shirt+1	  AC: +5 (+5 Acro, Whenever regain panache +10 until begin of next turn)
+
 
 MAGIC ITEMS
 Handy Haversack
-Belt of Dex +2
-Wand Magic Missile x 63
-Amulet of Natural Armor + 1
-Boots of Elvenkind Acro +5
-Cloak of Resistance +1
-Ring of Protection +1
+Wand Magic Missile x 62
 Anatomy Doll
-Potion of Haste x 2
 wand of animate dead (10 charges)
 wand of command undead (6 charges) x 4 wands
-Flayleaf x 15 (Hallucinogenic DRug)
+Flayleaf x 15 (Hallucinogenic Drug)
+Page of Spell Knowledge [Vanish]
+Page of Spell Knowledge [Ray of Enfeeblement]
+Page of Spell Knowledge [Shield]
+Page of Spell Knowledge [Protection from Evil]
+Page of Spell Knowledge [Obscuring Mist]
+Page of Spell Knowledge [True Strike]
+Page of Spell Knowledge [Windy Escape]
+Page of Spell Knowledge [Moment of Greatness]
+Potion inflict light wounds x 2
+Potion inflict serious wounds x 1
+Potion of Haste x 3
+Potion of Flying x 1
+Potion Remove Fear  x 2
+Magenta Prism (Ioun Stone)
+
+
+BODY ITEMS
+Belt of Dex +2 (waist)
+Amulet of Natural Armor +2 (neck)
+Boots of Elvenkind Acro +5 (feet)
+Cloak of Resistance +2 (shoulders)
+Ring of Protection +2 (hand1)
+Ring of Swimming (+5 Swim) (hand2)
+Plume of Panache (head)
+
 
 GOLD:
 0 + 14,000 loot = 14,000
@@ -47,6 +69,14 @@ GOLD:
 13,850 - 1430 Raise Dead Share = 12,420
 12,420 - 8000 Keen Rapier = 4,430
 4,430 - 750 Haste Potion = 3,680
+3,680 + 500 Sell Cloak of Resistance +1 = 4,180
+4,180 + 9.391 Loot = 13,570
+13,570 - 6,000 Keen the rapier = 7,570
+7,570 - 3,000 Haste potion x 4 = 4,570
+- 600 invisibility potion x 2
+- 600 spider climb potion x 2
+- 300 remove paralysis
+
 
 
 
@@ -56,11 +86,13 @@ GOLD:
 
 =============
 MW Tool (Acrobatics: Move through threatened)
-Performer’s Cape:
+Billowy :
 Price 50 gp; Slot Shoulders; Weight 1 lbs.
 A flowing red cape that can dazzle opponents in battle. Using this tool, the user gains a +2 circumstance bonus on any acrobatics checks for moving through threatened squares.
 Masterwork billowous cloak
-
+---
+Magenta Prism (Ioun Stone)
+Cracked: This stone grants you a +2 competence bonus on checks with any one skill you choose, and you can change the skill modified once per day, as a normal magenta prism ioun stone. Price: 800 gp.
 ----
 Flayleaf
 EDIT
@@ -73,6 +105,94 @@ It is also a powerful analgesic and muscle relaxant, rendering the user immune t
 
 Wishlist
 --------
+Shirt, Quick Runner’s
+Aura faint transmutation; CL 5th; Slot chest; Price 1,000 gp; Weight —
+
+DESCRIPTION
+This shirt is made of light, gossamer-thin fabric embroidered with arrangements of winged feet.
+Once per day as a swift action, the wearer can take an additional move action to move and then immediately end his turn, losing any unspent actions.
+A character must wear this shirt continuously for 24 hours before he can activate this ability.
+
+Swashbuckler
+	Answering Weapon Enhancement		Weapons	+1 bonus
+	Blouse of the Boastful Bastard		Chest		8000 when takes damage from a successful critical hit, she regains 1 panache point
+	Cape of Daring Deeds			Shoulders	9000
+	Cape of Feinting				Shoulders	14000
+	Cloak of the Sneaky Scoundrel		Shoulders	6400
+	Corsair Armor Enhancement			Armor		5000
+	Flamboyant Weapon Enhancement		Weapons	Varies
+	Plume of Panache				Head		1000
+	Flamboyant Weapon Enhancement		Weapons	2500
+	Rapier of Battlefield Movement		Weapons	30320
+	Ring of Resilience				Rings		15000
+  -
+  Ring of Resilience
+Price 15,000 gp; Slot ring; CL 10th; Weight —; Aura moderate conjuration
+    DESCRIPTION
+    This tarnished copper band sheds its patina when worn by anyone with panache or grit.
+    Whenever the wearer regains a panache or grit point through her actions (not just a daily refresh), she can try to end a single ongoing condition affecting her, attempting a new saving throw against the original DC.
+    The effect must be one that allowed a saving throw, can be removed by either dispel magic or heal, and be an effect against which the wearer failed her initial saving throw.
+    If the wearer succeeds at the new save, the effect is removed even if succeeding at the save would normally have other consequences, and even if the effect normally requires multiple saves to remove.
+    If the effect allowed more than one type of saving throw, use the type and DC for the first saving throw the wearer failed for the effect.
+    The wearer can use the ring only once for each ongoing condition. As the wearer must regain a panache or grit point to reroll a save, the ring provides no benefit if she hasn’t used any grit or panache.
+
+
+	Spiteful Armor Enhancement			Armor		7000
+	Skewering Weapon Enhancement		Weapons	+1 bonus
+	Swashbuckler's Rapier			Weapons	7320
+      Price 7,320 gp; Slot none; CL 7th; Weight 2 lbs.; Aura moderate transmutation
+      This +1 rapier has the nondescript, clean lines of a practice foil.
+      The wielder can spend 1 panache point as a swift action to give the bane special ability for 1 round, and can pick any subtype of humanoids as the designated foe.
+
+	Swordmaster's Flair				None		2500
+      Price 2,500 gp; Slot none; CL 5th; Weight —; Aura faint enchantment
+      DESCRIPTION
+      These garish tokens usually take the form of a colorful clothing accessories.
+      So long as a token is grasped in the user’s off hand, she can spend 1 panache point to gain the use of a specific ability associated with the token.
+      Once per day, the bearer can use the token to gain the full benefit of the token without spending panache. Non-swashbucklers can use the tokens, but unless they have another way of gaining panache, they can use the ability only once per day.
+      A character can benefit from only one token at a time; holding a second token provides no additional benefit.
+      There are four types of tokens, each offering a different benefit.
+      Blue Scarf:
+        The user can spend 1 panache point as a swift action to increase her melee reach with light or one-handed piercing weapons by 5 feet for 1 minute.
+      Green Glove:
+        The user can spend 1 panache point as a swift action to ignore the effects of difficult terrain until the end of her next turn.
+      Red Sash:
+        The user can spend 1 panache point as an immediate action to attempt a combat maneuver check to trip a creature that has charged and ended its charge in a space within the user’s melee reach.
+        This combat maneuver does not provoke an attack of opportunity, it’s attempted before the attack at the end of the charge, and the sash’s user gains a +2 bonus on the check.
+        If the check is successful, the attacker can’t make an attack at the end of its charge.
+      White Lace Kerchief:
+        The user can spend 1 panache point as a swift action to pinpoint an unseen, adjacent enemy and gains the benefits of the Blind Fight feat for 1 round.
+
+
+        Effortless Lace
+Price 2,500 gp; Slot none; CL 15th; Weight —; Aura strong transmutation
+
+DESCRIPTION
+
+This elegant silk ribbon gleams like mithral and feels like polished steel.
+
+EFFECTS
+
+When wrapped around the grip of a one-handed piercing or slashing melee weapon for 24 hours, the ribbon’s magic permanently merges with the weapon, reducing the attack roll penalty incurred by a wielder who is smaller than the weapon’s intended wielder by 2 (to a minimum penalty of 0).
+
+If the weapon is wielded by a creature whose size matches that of the weapon’s intended wielder, the weapon is treated as a light melee weapon when determining whether it can be used with Weapon Finesse, as well as with any feat, spell, or special weapon ability that can be used in conjunction with light weapons.
+
+Once an effortless lace’s abilities have been conveyed to a weapon, the ribbon must remain attached to the weapon or its effects end immediately, its magic is permanently lost, and it is reduced to worthless cloth. Effects that would dispel the magic of the weapon or cause the weapon to gain the broken condition (such as sundering) destroy the ribbon as well.
+
+Page of Spell Knowledge
+
+Runestone of Power
+Aura strong transmutation; CL 17th; Slot none; Price 2,000 gp (1st), 8,000 gp (2nd), 18,000 gp (3rd), 32,000 gp (4th), 50,000 gp (5th), 72,000 gp (6th), 98,000 gp (7th), 128,000 gp (8th), 162,000 gp (9th); Weight –
+
+DESCRIPTION
+
+A runestone of power is a small chip of polished stone etched with a rune.
+
+Traditionally, this rune is one of many runes for magic, but more recently created runestones of power often substitute runes from other cultures—the nature of the rune itself has no effect on the runestone’s actual powers. These objects are potent aids to all spellcasters who cast spells spontaneously (bards, inquisitors, oracles, sorcerers, and summoners, but not to spellcasters like clerics who have the option to spontaneously cast certain spells).
+
+Once per day, a spontaneous caster can draw upon a runestone of power to cast a spell—doing so is part of the spellcasting action, and expends that runestone’s power for the day rather than one of the spellcaster’s actual spell slots for the day. An expended runestone of power recharges its capacity after 24 hours. The spell must be of a particular level, depending on the runestone.
+
+
 
 GOGGLES OF MINUTE SEEING
 -Aura faint divination; CL 3rd; Slot eyes; Price 2,500 gp; Weight —
@@ -194,6 +314,14 @@ CONSTRUCTION REQUIREMENTS
 
 Feats Craft Wondrous Item, feather fall; Cost 500 gp.
 
+Home >Magic Items >Wondrous Items >A-B >
+Boots of Speed
+Aura moderate transmutation; CL 10th; Slot feet; Price 12,000 gp; Weight 1 lb.
+
+DESCRIPTION
+
+As a free action, the wearer of boots of speed can click her heels together, letting her act as though affected by a haste spell for up to 10 rounds each day. The haste effect’s duration need not be consecutive rounds.
+
 
 Burst of Speed: A solid spell from Ultimate Combat, this spell seems a little weak for a 3rd-level spell slot at first glance. As a swift action you gain a 20 foot bonus to your speed (untyped), or a 10 foot bonus if you're wearing medium or heavy armor. The advantage is that your movement doesn't provoke attacks of opportunity, and you can move through spaces of creatures larger than you as long as you don't end your movement there. Again, it's only usable on the self, but it's a handy trick to have up your sleeve if you need to close with an enemy (or get behind them for a flank) in a big damn hurry.
 
@@ -278,3 +406,16 @@ Saving Throw Will negates (harmless); Spell Resistance yes (harmless)
 DESCRIPTION
 
 When casting this spell, choose a single skill that you have at least one rank in. The target gains a +2 insight bonus on skill checks with this skill and is considered trained in that skill. The insight bonus increases by 1 for every four levels of the caster (maximum +6). Furthermore, once before the spell’s duration, the target can choose to roll two checks and take the greater result. Doing so ends the spell’s other effects.
+-------------------------
+Pale Green Prism (Ioun Stone)
+Aura strong varied; CL 12th; Slot —;
+DESCRIPTION
+This stone grants the wearer a +1 competence bonus on attack rolls, saves, skill checks, and ability checks.
+Cracked: This stone grants a +1 competence bonus on attack rolls or saving throws. Price: 4,000 gp
+-------------------------
+Stone of Good Luck (Luckstone)
+Aura faint evocation; CL 5th; Slot —; Price 20,000 gp; Weight —
+
+DESCRIPTION
+
+This small bit of agate grants its possessor a +1 luck bonus on saving throws, ability checks, and skill checks.

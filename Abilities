@@ -4,8 +4,9 @@ Abilities
 +2 [Int]
 +3 [Cha]
 
-STR: 9
-DEX: 22  -1 (belladonna) = 15 +2 [Dhamp] +2 [Belt] +1 [Lvl 4] +1 [Lvl 8] +1 [VP]
+STR: 9 -3 dam migo
+
+DEX: 22   = 15 +2 [Dhamp] +2 [Belt] +1 [Lvl 4] +1 [Lvl 8] +1 [VP]
 CON: 10   = 12 -2 [Dhamp]
 INT: 14
 WIS: 10

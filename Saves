@@ -1,9 +1,9 @@
 Saves
 
-              URogue4  +  Sor1   + Swash3 + Ability
-FORT: +2    =    1         0         1        0  Con
-REF:  +13   =    4         0         3        6  Dex
-WILL: +4    =    1         2         1        0  Will
+              URogue5  +  Sor1   + Swash5  + Ability   + Cloak
+FORT: +4    =    1         0         1        0  Con    +2
+REF:  +16   =    4         0         4        6  Dex    +2
+WILL: +6    =    1         2         1        0  Will   +2
 
 +2 Saves vs mind affecting, +2 vs disease [Dhamp]
 +1 bonus on Reflex saves to avoid traps [URogue3]
