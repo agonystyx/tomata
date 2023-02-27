@@ -19,7 +19,19 @@ Level 1: URogue 1
 
   HP: +8 [First Lvl max HD]
   BAB: +0   Fort: +0  Ref: +2   Will:	+0
-  Finesse training, sneak attack +1d6, trapfinding
+  SPECIAL:
+
+    - magical knack (Magic Trait) Caster +2
+    - subject of study (Campaign Trait) +1 dam Undead
+    - undead slayer (Dhampir Trait) +1 attack/dam undead
+    - stigmatized  (Drawback)
+
+    - Finesse training,
+    - sneak attack +1d6,
+    - trapfinding
+
+    - UNUSUAL ORIGIN (Racial Feat) bite attack
+
 
   Finesse Training (Ex)
     -At 1st level, a rogue gains Weapon Finesse as a bonus feat. (+more)
@@ -41,17 +53,19 @@ Level 2: Sorcerer 1 Undead Bloodline Sanguine Wildbloodline
 
   HP: +4 [1/2 HD6 + 1]
   BAB: +0   Fort: +0  Ref: +2   Will:	+0
-  Bloodline power, cantrips, eschew materials
+  SPECIAL:
+    - Bloodline power,
+    - cantrips,
+    - eschew materials
 
-  Bloodline Arcana: your effective caster level +1 for necromancy school
+    - Bloodline Arcana: your effective caster level +1 for necromancy school
 
-  THE BLOOD IS THE LIFE (Su): 6x day
-    At 1st level, you can gain sustenance from the blood of the recently dead.
-    As a standard action, you can drink the blood of a creature that died within the past minute.
-    The creature must be corporeal, must be at least the same size as you, and must have blood.
-    This ability heals you 1d6 hit points and nourishes you as if you’d had a full meal.
-    You may use this ability a number of times per day equal to 3 + your Charisma modifier.
-
+    - THE BLOOD IS THE LIFE (Su): 6x day
+      At 1st level, you can gain sustenance from the blood of the recently dead.
+      As a standard action, you can drink the blood of a creature that died within the past minute.
+      The creature must be corporeal, must be at least the same size as you, and must have blood.
+      This ability heals you 1d6 hit points and nourishes you as if you’d had a full meal.
+      You may use this ability a number of times per day equal to 3 + your Charisma modifier.
 
 
 Level 3: Swashbuckler Inspired Blade 1  *Favoured Class*
@@ -67,19 +81,22 @@ Level 3: Swashbuckler Inspired Blade 1  *Favoured Class*
 
   HP: +7 [1/2 HD10 + 1]  +1 [FavouredClass]
   BAB: +1   Fort: +0  Ref: +2   Will:	+0
+  SPECIAL:
+    - COMBAT REFLEXES
+    - Deeds,
+    - panache,
+    - swashbuckler finesse/ inspired finesse
+    - inspired panache
 
-  Deeds, panache, swashbuckler finesse
+    SWASHBUCKLER FINESSE (Ex):
+      At 1st level, a swashbuckler gains the benefits of the Weapon Finesse feat with light or one-handed piercing melee weapons, and she can use her Charisma score in place of Intelligence as a prerequisite for combat feats.
+      This ability counts as having the Weapon Finesse feat for purposes of meeting feat prerequisites.
 
-  SWASHBUCKLER FINESSE (Ex):
-    At 1st level, a swashbuckler gains the benefits of the Weapon Finesse feat with light or one-handed piercing melee weapons, and she can use her Charisma score in place of Intelligence as a prerequisite for combat feats.
-    This ability counts as having the Weapon Finesse feat for purposes of meeting feat prerequisites.
+    INSPIRED FINESSE:
+      At 1st level, an inspired blade gains the benefits of Weapon Finesse with the rapier (this ability counts as having the Weapon Finesse feat for the purpose of meeting feat prerequisites) and gains Weapon Focus (rapier) as a bonus feat.
+      This ability replaces swashbuckler finesse.
 
-  INSPIRED FINESSE:
-    At 1st level, an inspired blade gains the benefits of Weapon Finesse with the rapier (this ability counts as having the Weapon Finesse feat for the purpose of meeting feat prerequisites) and gains Weapon Focus (rapier) as a bonus feat.
-    This ability replaces swashbuckler finesse.
-
-
-  DEEDS:
+    DEEDS:
 
     DERRING-DO (Ex): +d6...  Acro, Climb, Escape Artist, Fly, Ride, or Swim (Cost 1 panache)
       At 1st level, a swashbuckler can spend 1 panache point when she makes an Acrobatics, Climb, Escape Artist, Fly, Ride, or Swim check to roll 1d6 and add the result to the check.
@@ -125,11 +142,9 @@ Level 4: URogue 2
   HP: +5 [1/2 HD8 +1]
 
   BAB: +1   Fort: +0  Ref: +3  Will:	+0
-  Evasion,
-  rogue talent -> Combat Feat [Weapon Specialization]
-
-
-
+  SPECIAL:
+  - Evasion,
+  - rogue talent -> Combat Feat [Weapon Specialization]
 
 Level 5: Swashbuckler Inspired Blade 2  *Favoured Class*
 -----------------------
@@ -141,18 +156,15 @@ Level 5: Swashbuckler Inspired Blade 2  *Favoured Class*
     1 Escape Artist
     1 Knowledge (local)
 
-
-
   HP: +6 [1/2 HD10 + 1]
-
   BAB: +2	 FORT: +0	 REFLEX: +3	WILL: +0
-
-  Charmed Life (Ex): +[Cha] save 3/day
-    At 2nd level, the swashbuckler gains a knack for getting out of trouble.
-    Three times per day as an immediate action, she can add her Charisma modifier to the result of a saving throw.
-    She must choose to do this before the roll is made.
-    At 6th level and every 4 levels thereafter, the number of times she can do this per day increases by one (to a maximum of seven times per day at 18th level).
-
+  SPECIAL:
+    - EXTRA PANACHE (Panache Feat)
+    - Charmed Life (Ex): +[Cha] save 3/day
+        At 2nd level, the swashbuckler gains a knack for getting out of trouble.
+        Three times per day as an immediate action, she can add her Charisma modifier to the result of a saving throw.
+        She must choose to do this before the roll is made.
+        At 6th level and every 4 levels thereafter, the number of times she can do this per day increases by one (to a maximum of seven times per day at 18th level).
 
 
 Level 6: URogue 3
@@ -172,7 +184,11 @@ Level 6: URogue 3
   HP: +5 [1/2 HD8 +1]
 
   BAB: +2   Fort: +1  Ref: +3  Will:	+1
-  Danger sense +1, finesse training, sneak attack +2d6
+  SPECIAL:
+
+    - Danger sense +1,
+    - finesse training,
+    - sneak attack +2d6
 
 
   Finesse Training (Ex):
@@ -189,8 +205,6 @@ Level 6: URogue 3
     This ability counts as trap sense for the purpose of any feat or class prerequisite, and can be replaced by any archetype class feature that replaces trap sense.
     The bonuses gained from this ability stack with those gained from trap sense (from another class).
 
-
-
 Level 7: Swashbuckler Inspired Blade 3  *Favoured Class*
 -----------------------
   Skills: 6 = 4 +2 [Int]
@@ -201,19 +215,21 @@ Level 7: Swashbuckler Inspired Blade 3  *Favoured Class*
     1 Knowledge (arcana)
     1 Profession (driver)
 
-
 	BAB: +3	 Fort: +1	 Ref: +3	Will: +1
-  Deeds, nimble +1
-
   HP: +7 [1/2 HD10 + 1] +1 [FavouredClass]
 
+  SPECIAL:
+    - ACCOMPLISHED SNEAK ATTACKER +1d6
+    - Deeds,
+    - nimble +1
+    - swashbuckler initiative
 
   Nimble (Ex): (+1 AC dodge)
     At 3rd level, a swashbuckler gains a +1 dodge bonus to AC while wearing light armor or no armor.
     Anything that causes the swashbuckler to lose her Dexterity bonus to AC also causes her to lose this dodge bonus.
     This bonus increases by 1 for every 4 levels beyond 3rd (to a maximum of +5 at 19th level).
 
-  PRECISE STRIKE (EX): +3 dam (while panache) +6 dam (cost panache)
+  PRECISE STRIKE (EX): +5 dam (while panache) +10 dam (cost panache)
     At 3rd level, while she has at least 1 panache point, a swashbuckler gains the ability to strike precisely with a light or one-handed piercing melee weapon (though not natural weapon attacks), adding her swashbuckler level to the damage dealt.
     To use this deed, a swashbuckler cannot attack with a weapon in her other hand or use a shield other than a buckler.
     She can even use this ability with thrown light or one-handed piercing melee weapons, so long as the target is within 30 feet of her.
@@ -243,11 +259,12 @@ Level 8: URogue 4
     1 Spellcraft
 
   	+3	+1	+4	+1
-    Debilitating injury,
-    rogue talent,
-    uncanny dodge
-
     HP: +5 [1/2 HD8 +1]
+    SPECIAL:
+      - DODGE (COMBAT)
+      - Debilitating injury,
+      - rogue talen -> MOBILITY (COMBAT)
+      - uncanny dodge
 
     UNCANNY DODGE (EX)
       At 4th level, a rogue can react to danger before her senses would normally allow her to do so.
@@ -279,51 +296,54 @@ Level 8: URogue 4
 
 Level 9: Swash4
 -----------------
-Bonus Feats [Swash4]
-Relearn a feat [Swash4]
+  Skills: 6 = 4 +2 [Int]
+    1 UMD
+    1 Acro
+    1 Disable Device
+    1 Perception
+    1 Arcana
+    1 Escape Artist
 
-Skills: 6 = 4 +2 [Int]
-  1 UMD
-  1 Acro
-  1 Disable Device
-  1 Perception
-  1 Arcana
-  1 Escape Artist
+  HP: +7 [1/2 HD10 + 1] +1 [FavouredClass]
+  SPECIAL:
+    - TWO-WEAPON FIGHTING (Combat) Bonus Feats [Swash4]
+    - CANNY TUMBLE (Combat) [L9 feat]
 
-HP: +7 [1/2 HD10 + 1] +1 [FavouredClass]
+  QQQ? Relearn a feat [Swash4]
 
 
 Level 10: Swash5
 -----------------
-Skills: 6 = 4 +2 [Int]
-  1 UMD
-  1 Acro
-  1 Disable Device
-  1 Perception
-  1 Escape Artist
-  1 Swim
+  Skills: 6 = 4 +2 [Int]
+    1 UMD
+    1 Acro
+    1 Disable Device
+    1 Perception
+    1 Escape Artist
+    1 Swim
 
-HP: +7 [1/2 HD10 + 1] +1 [FavouredClass]
-Swashbuckler weapon training +1
+  HP: +7 [1/2 HD10 + 1] +1 [FavouredClass]
+  SPECIAL:
+    - RAPIER TRAINING (Ex) +1 attack +2 dam rapier, Improved Critical
 
 
 Level 11: URogue5
 ------------------
+  Skills: 10 = 8 +2 [Int]
+    1 UMD
+    1 Acro
+    1 Disable Device
+    1 Perception
+    1 Escape Artist
+    1 Know (Arcana)
+    1 Know (Arcana)
+    1 Know (Religion)
+    1 Escape Artist
+    1 Spellcraft
 
-Skills: 10 = 8 +2 [Int]
-  1 UMD
-  1 Acro
-  1 Disable Device
-  1 Perception
-  1 Escape Artist
-  1 Know (Arcana)
-  1 Know (Arcana)
-  1 Know (Religion)
-  1 Escape Artist
-  1 Spellcraft
-
-HP: +5 [1/2 HD8 +1]
-
-5th	+3	+1	+4	+1
-Rogue’s edge,
-sneak attack +3d6
+  HP: +5 [1/2 HD8 +1]
+  5th	+3	+1	+4	+1
+  SPECIAL:
+    - CONFOUNDING TUMBLE DEED (Panache Feat)
+    - Rogue’s edge, 
+    - sneak attack +3d6
