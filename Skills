@@ -1,41 +1,88 @@
 Skills
 
-(From google keep note possibly Level 7 but was modified later)
-Acrobatics *[R Swash] 	32	= +5 [Dex] +11 [Rank] + 3 [Class] +5 [Boots] +2 [Acrobatic] +2 [MW Tool Billowing Scarf] +5 [Corsair]
-Appraise  *[R Sor]    	6	= +2 [Int] +1 [Rank] + 3 [Class]
-Bluff *[R Sor Swash]  	12	= +3 [Cha] +4 [Rank] + 3 [Class] +2 [Dhampir]
-Climb *[R Swash]
-Craft *[R Sor Swash]
-Diplomacy *[R Swash]	7	= +3 [Cha] +1 [Rank] + 3 [Class]
-Disable Device *[R]		22	= +5 [Dex] +11 [Rank] + 3 [Class] +2 [Trapfind] +2 [MW Tools]
-Disguise *[R]
-Escape Artist *[R Swash] 14	= +5 [Dex] +6 [Rank] + 3 [Class]
-Fly	*[Sor]
-Handle Animal
-Heal  1	= +0 [Wis] +1 [Rank]   sofar:1
-Intimidate	*[Sor Swash]	7 = +3 [Cha] +1 [Rank] + 3 [Class]
-Knowledge (arcana)	*[ Sor]		11	= +2 [Int] +6 [Rank] + 3 [Class]
-Knowledge (dungeoneering) *[R]	6	= +2 [Int] +1 [Rank] + 3 [Class]
-Knowledge (local) *[R Swash]	10	= +2 [Int] +5 [Rank] + 3 [Class]
-Knowledge (nobility) *[Swash]
-Knowledge (religion) *[Sor/Sanguine]	7	= +2 [Int] +2 [Rank] + 3 [Class]
-Linguistics *[R]	6	= +2 [Int] +1 [Rank] + 3 [Class]
-Perception *[R Swash]		16	 = +0 [Wis] + 11 [Rank] + 3 [Class] +2 [Dhampir]
-(+2 traps [Trapfind])
-(+1 bonus Perception to avoid being surprised [URogue3])
-Perform	 *[R Swash]
-Profession (driver) *[R Sor Swash]	4 = +0 [Wis] +1 Rank +3 [Class]
-Ride *[Swash]
-Sense Motive *[R Swash]	 	4 = +0 [Wis] + 1 [Rank] + 3 [Class]
-Sleight of Hand *[R Swash]	9 = +5 [Dex] + 1 [Rank] + 3 [Class]
-Spellcraft	*[ Sor]  9	= +2 [Int] +4 [Rank] + 3 [Class]
-Stealth *[R]		11	=  +5 [Dex] +2 [Rank] + 3 [Class]
-Survival
-Swim *[R Swash]  9	=   +1 [Rank] + 3 [Class]  +5 Ring
-Use Magic Device *[R Sor] 	17	= +3 [Cha] +11 [Rank] + 3 [Class]
+Acrobatics: 32
+  *[R Swash] = +5 [Dex] +11 [Rank] + 3 [Class] +5 [Boots] +2 [Acrobatic] +2 [MW Tool Billowing Scarf] +5 [Corsair]
 
-====
-Note:
+Appraise: 6
+  *[R Sor] = +2 [Int] +1 [Rank] + 3 [Class]
+
+Bluff: 12
+  *[R Sor Swash] = +3 [Cha] +4 [Rank] + 3 [Class] +2 [Dhampir]
+
+Climb
+Craft
+
+Diplomacy: 7
+  *[R Swash]	= +3 [Cha] +1 [Rank] + 3 [Class]
+
+Disable Device: 22
+  *[R]		= +5 [Dex] +11 [Rank] + 3 [Class] +2 [Trapfind] +2 [MW Tools]
+
+Disguise
+
+Escape Artist: 14
+  *[R Swash]= +5 [Dex] +6 [Rank] + 3 [Class]
+
+Fly
+Handle Animal
+Heal: 1
+  = +0 [Wis] +1 [Rank]
+
+Intimidate:	7
+  *[Sor Swash]= +3 [Cha] +1 [Rank] + 3 [Class]
+
+Knowledge (arcana):	11
+  *[ Sor]		= +2 [Int] +6 [Rank] + 3 [Class]
+
+Knowledge (dungeoneering): 6
+  *[R]	= +2 [Int] +1 [Rank] + 3 [Class]
+
+Knowledge (local):	10
+   *[R Swash]= +2 [Int] +5 [Rank] + 3 [Class]
+
+Knowledge (nobility): 1
+   *[Swash] = +1 [Rank]
+
+Knowledge (religion):	7
+   *[Sor/Sanguine] = +2 [Int] +2 [Rank] + 3 [Class]
+
+Linguistics: 6
+   *[R]	 = +2 [Int] +1 [Rank] + 3 [Class]
+
+Perception: 16
+   *[R Swash]		= +0 [Wis] + 11 [Rank] + 3 [Class] +2 [Dhampir]
+  (+2 traps [Trapfind])
+  (+1 bonus Perception to avoid being surprised [URogue3])
+
+Perform
+
+Profession (driver): 4
+   *[R Sor Swash]	= +0 [Wis] +1 Rank +3 [Class]
+
+Ride
+
+Sense Motive:	4
+   *[R Swash]	 = +0 [Wis] + 1 [Rank] + 3 [Class]
+
+Sleight of Hand: 9
+   *[R Swash]	= +5 [Dex] + 1 [Rank] + 3 [Class]
+
+Spellcraft: 9
+  	*[ Sor]  = +2 [Int] +4 [Rank] + 3 [Class]
+
+Stealth: 11
+   *[R]		=  +5 [Dex] +2 [Rank] + 3 [Class]
+
+Survival
+
+Swim: 9
+   *[R Swash]  =   +1 [Rank] + 3 [Class]  +5 Ring
+
+Use Magic Device: 17
+   *[R Sor] 	= +3 [Cha] +11 [Rank] + 3 [Class]
+
+
+Notes:
 ----
 Trapfinding
 A rogue adds 1/2 her level on Perception checks to locate traps and on Disable Device checks (minimum +1).
